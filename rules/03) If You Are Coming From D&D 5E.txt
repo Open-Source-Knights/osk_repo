@@ -1,0 +1,88 @@
+
+
+
+
+OSK IS A D&D-5E-ADJACENT FRAMEWORK
+	Open-Source Knights is built primarily from the concepts and structure of D&D 5E.
+	However, it modifies or replaces many of D&D's character-building, combat, and resource-management rules.
+	Many familiar terms remain, but they may function differently. 
+	When OSK and D&D rules conflict, use the OSK rule.
+
+CHARACTERS AND CLASSES
+	Most characters have one Primary Class and one Secondary Class.
+	Characters gain levels in both Classes simultaneously.
+	Classes do not grant a fixed list of features at every level; rather, they define the types of Abilities a character may create.
+	There are no subclasses, though players are free to create Abilities based on Source Abilities from relevant subclasses.
+	OSK does not use Backgrounds as a separate mechanical character feature.
+	A character's history, occupation, and culture remain part of their backstory, but do not automatically grant Skills or features.
+
+ABILITY CARDS
+	Class features, spells, maneuvers, and similar effects are represented by Ability cards.
+	These Ability cards are player-created, and are generally represented by 3x5 index cards. 
+	This book contains a set of "default" OSK cards, but players are highly encouraged to design their own.
+	Player-created abilities are called "Designed Abilities", and are usually based on a corresponding "Source Ability" from one of the character's Classes.
+	A Designed Ability should preserve its Source Ability's fantasy, function, or both - but it does not need to preserve its exact mechanics.
+
+ATTRIBUTES AND SKILLS
+	OSK uses the six familiar Attributes: STR, DEX, CON, INT, WIS, and CHA.
+	Attributes are recorded as modifiers rather than scores.
+	Skills (Animal Handling, Stealth, etc) are not permanently linked to specific Attributes.
+	OSK does not use a Perception Skill. The Game Master should freely describe anything a character can plainly see, hear, smell, or otherwise notice.
+	Hidden dangers and concealed information may involve Skills such as Investigation, Insight, or Survival.
+	The Persuasion Skill represents a character's minimum competence in social influence.
+	A Persuasion modifier is the "floor" that a corresponding Persuasion check should add at minimum.
+	However, if a player employs strong reasoning or skilled roleplaying, the GM should grant a higher modifier, as appropriate.
+	Note that even a very high Persuasion Check does not force another character to behave irrationally.
+
+COMBAT IN BRIEF
+	Combat in OSK assumes the use of a gridded map.
+	Initiative is team-based, and play alternates between the Player Team and the Enemy Team.
+	Abilities, Equipment, and Consumables are represented by cards.
+	Only cards in the character's current Loadout are immediately available during combat. 
+	Most Ability cards (and certain Equipment cards) enter the Cooldown Queue after being used.
+	The Cooldown Queue replaces many resources such as spell slots, superiority dice, Ki points, and sorcery points.
+	Critical Hits and Critical Misses in combat function a bit differently than D&D 5E.
+	See the Combat chapter for the complete rules.
+
+THE ACTION ECONOMY
+	Each character takes three Actions on their turn. OSK does not divide a turn into an Action, Bonus Action, and Movement.
+	A character may take the same action type up to twice on a turn.
+	However, only one card can be placed into the Cooldown Queue per turn.
+	Additionally, some cards can have a "Combo" property, which allows them to be played into Cooldown Slot 1 simultaneously with another card.
+	OSK does not use a universal "Reaction".
+	A character may instead Hold an Action and define an off-turn Trigger for it.
+	OSK also does not use Attacks of Opportunity or a Disengage action.
+	Specific Abilities may still create between-turn effects or restrict enemy movement.
+
+DAMAGE AND WEAPONS
+	OSK primarily uses d6s for damage.
+	Ordinary weapons do not have separate universal damage dice. Rather, damage is primarily determined by the Ability being used.
+	Ability damage is organized into five Damage Tiers, for balancing purposes.
+	Physical damage combines bludgeoning, piercing, and slashing into one category of Damage Type.
+	Unusual or powerful weapons may have their own Equipment cards.
+
+ARMOR CLASS
+	Each team shares a single Armor Class. Player AC is based on the team's current Level. 
+	A roll below Armor Class does not usually mean a complete miss. Many Abilities have a weaker "Under-AC" result and a stronger "Over-AC" result.
+	A character's standard armor is considered "built into" the default party AC.
+	Special armor may have its own Equipment card, but this should generally raise the character's HP instead of adjusting AC.
+
+OTHER IMPORTANT DIFFERENCES
+	Advantage and Disadvantage can stack into Double Advantage and Double Disadvantage (roll 3 d20s and use the highest/lowest).
+	Advantage and Disadvantage cancel each other one step at a time.
+	A character may hold up to 5 Inspiration Points, which can be used to reroll failed Checks or Attack Rolls.
+	Short Rests do not exist, and a Long Rest (also simply called a Rest) usually lasts 8-12 hours. 
+	Healing is limited by Recovery Points rather than Hit Dice or Spell Slots.
+	Any time a character recovers HP between Long Rests, no matter the amount, they spend a Recovery Point. 
+	A dying character may still be stabilized even if they have no remaining Recovery Points.
+	Resting restores all HP and Recovery Points. 
+
+RULINGS OVER RULES
+	OSK intentionally gives the Game Master broad authority. Intuition and common sense trump having an explicit rule for every situation.
+	Custom Abilities, Wildcard Actions, and unusual situations rely on judgment rather than exhaustive procedures.
+	The Game Master may revise a rule or custom card that proves unclear, disruptive, or unbalanced.
+	Players and the Game Master should approach these decisions collaboratively.
+
+
+
+

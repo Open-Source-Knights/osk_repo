@@ -1,0 +1,260 @@
+
+
+
+ENEMY STAT BLOCK COMPOSITION:
+	Enemy stat blocks should be fast to read and easy to run. A typical enemy needs:
+	- Name
+	- Hit Points
+	- Movement
+	- Combat Modifier / Combat Save DC
+	- Vulnerabilities, Resistances, or Immunities (if applicable)
+	- Abilities
+	- Special rules specific to them
+	Do not give enemies player-style character sheets, Decks, Loadouts, or full Designed Ability cards.
+	The GM should be able to understand an ordinary enemy's complete turn at a glance.
+
+ENEMY STAT BLOCK DESIGN:
+	Start with the Enemy Stat Chart, then change only what makes the creature distinctive.
+	Ask questions such as:
+	- What is this enemy supposed to do?
+	- Is it tough, fragile, mobile, dangerous at range, supportive, controlling, etc?
+	- What makes fighting it different from fighting something else?
+	- Does that distinction actually need a mechanic?
+	Most basic enemies only need 1-3 abilities. More complicated does not automatically mean more interesting.
+
+ENEMY STAT CHART:
+	Use the Enemy Stat Chart as the starting point for: HP, Combat Modifier / Combat Save DC, Ability Damage, etc
+	The chart represents an ordinary enemy of that approximate power.
+	Adjust values to create different enemy types (for example: raising HP and lowering Movement to create a "tank" enemy)
+	Enemy Abilities should provide most of the enemy's personality.
+	TODO: INCLUDE THE ACTUAL CHART
+
+REFLAVORING ATTACKS:
+	You do not need a unique mechanical attack for every weapon, claw, spell, or monster.
+	The same mechanical attack can represent a blast of fire, an arrow, a psychice attack, or a flurry of magical ice.
+	Remember: Reflavoring is free! Do not create unnecessary mechanical differences simply because two attacks look different in the fiction.
+
+ENEMY DICE USAGE:
+	Consider limiting the frequency and number of dice required when enemies attack, in order to keep gameplay moving quickly.
+	Whenever practical, use one d20 for an Attack Roll (and avoid several separate attack rolls on one enemy turn).
+	Whenever practical, use a static number + 2d6 to calculate damage.
+	For example, rather than rolling 7d6, consider a larger static number plus 2d6 (e.g. 18 + 2d6)
+	That being said, occasional exceptions can be fun and dramatic! If an ancient dragon breathes fire on your players, rolling 25d6 will certainly get the players' attention!
+
+BOSS STAT BLOCKS:
+	Bosses should feel different from ordinary enemies, not merely survive longer.
+	A Boss might have: More HP, stronger Abilities, greater mobility, wider area-of-effect abilities, battlefield-changing effects, abilities that change as the battle progresses, etc.
+	Avoid simply multiplying HP. A Boss with enormous HP but no evolving tactics becomes a damage sponge.
+	Whenever possible, give the Boss something that changes the decisions players make.
+
+MALICE POINTS:
+	Malice Points are a GM-facing resource for major enemies and encounters. Special bosses should have between 1 and 5 Malice Points.
+	They allow enemies - especially bosses - to use unusually dangerous or dramatic abilities without making those special actions infinitely available.
+	The primary purpose of Malice Points is to allow the GM to bend certain combat rules so that a powerful enemy feels appropriately threatening.
+	Malice Point effects do not need to be determined in advance - the GM can use them mid-fight and adapt them to whatever the situation calls for.
+	General principles:
+	- The encounter begins with the appropriate amount of Malice.
+	- The GM spends one Malice Point when they want the boss encounter to bend the normal rules of the game.
+	- Ordinary attacks should generally not require Malice.
+	- Malice should create interesting decisions rather than routine bookkeeping.
+	- Malice effects should feel special when they occur.
+	Good Malice effects include:
+	- Powerfully enhancing an ability for one turn
+	- Calling in reinforcements
+	- Major battlefield changes
+	- Large recoveries of HP
+	- Major repositioning out of danger.
+	- Cancelling debilitating player abilities
+	Avoid Malice effects whose primary purpose is simply preventing players from acting.
+
+REASSESS THE BATTLE AT THE TOP OF EACH ROUND:
+	At the beginning of every new Round, briefly reassess the battlefield.
+	Ask questions such as:
+	- Who is winning?
+	- Who is badly wounded?
+	- Has the objective changed?
+	- Would any enemies flee or surrender?
+	- Would reinforcements arrive?
+	- Would the enemies change tactics?
+	- Has the environment changed?
+	- Is the outcome already obvious?
+	Do not run enemies like automated game pieces. They should react to what happened during the previous Round.
+	If you need to increase the damage output of enemies, consider a narrative explanation (such as having them light their swords on fire, or entering a berzerker frenzy).
+
+HP VS DAMAGE VALUES:
+	HP determines how long an enemy remains relevant. Damage determines how dangerous it feels while alive.
+	When adjusting enemy difficulty, remember the following points:
+	- More HP: Longer battle.
+	- More damage: More dangerous battle.
+	- More enemies: More enemy turns and battlefield pressure.
+	- Stronger control: Fewer options for the players.
+	- Greater mobility: Harder positioning problems.
+	These are not equivalent. Be particularly cautious about increasing both HP and damage substantially.
+	In general, meaningful danger is preferable over excessive durability.
+
+ENCOUNTER BUILDING:
+	When creating a combat encounter, start by asking what the encounter is supposed to accomplish.
+	Ask questions like: Why is this combat happening? What do the enemies want? What do the players want? What terrain matters? Is defeating every enemy necessary, or are there alternative objectives?
+	hen choose enemies appropriate to that situation.
+	Note that enemies can be imported into OSK from various other TTRPGs, in a manner similar to importing Species or Abilities.
+	A good encounter often mixes different functions:
+	- Durable enemies that occupy space
+	- Mobile enemies that pressure vulnerable characters
+	- Ranged enemies
+	- Support enemies
+	- Enemies with unusual Special Abilities
+	Do not feel obligated to use every type.
+	When judging encounter difficulty, consider things such as: 
+	- Number of player characters
+	- Number of enemies
+	- Enemy HP
+	- Enemy abilities and damage
+	- Battlefield terrain
+	- Range
+	- Mobility	
+	- Conditions and control effects
+	- The party's current HP and Recovery Points
+	Remember: Encounter difficulty is not determined by a single number. The same enemies can be dramatically more dangerous under different circumstances!
+
+ENEMY ACTION ECONOMY:
+	The number of enemy combatants greatly effects the overall combat difficulty.
+	OSK alternates turns between the Player Team and Enemy Team. Therefore:
+	- More enemies usually means more total enemy actions.
+	- One powerful enemy may still be disadvantaged against several player characters.
+	- Large numbers of weak enemies can become dangerous through action economy alone.
+	- Adding enemies changes more than just total HP.
+	Be careful when the Enemy Team substantially outnumbers the Player Team.
+	Likewise, Bosses may require special rules or Malice abilities to remain threatening when fighting alone.
+	Do not compensate for action-economy problems only by adding enormous amounts of HP!
+
+ALTERNATIVE COMBAT OBJECTIVES:
+	Not every combat needs to end when one side has reduced the other side to 0 HP. Combat is often more interesting when the participants want something other than simple extermination.
+	Possible objectives include:
+	- Protect a person
+	- Rescue captives
+	- Escape an area
+	- Prevent enemies from escaping
+	- Reach a location
+	- Hold a location
+	- Capture an enemy alive
+	- Steal or recover an object
+	- Stop a ritual
+	- Destroy a device
+	- Survive for a certain number of rounds
+	- Delay enemies until help arrives
+	- Close a portal
+	- Activate several mechanisms
+	- Escort someone across the battlefield
+	- Prevent destruction of an important object
+	Tell the players what their characters can reasonably understand about the objective. An objective cannot meaningfully affect their decisions if they do not know it exists!
+
+ENEMIES HAVE OBJECTIVES TOO:
+	Enemy combatants do not necessarily fight until death.
+	Bandits may flee after their leader is defeated. Guards may attempt to arrest the characters rather than kill them. Cultists may ignore wounded characters to concentrate on completing a ritual.
+	Ask what the enemies actually want. Their tactics should follow from that answer.
+	This also gives the GM a natural way to end combats once the important question has been resolved.
+
+ADJUDICATING WILDCARDS:
+	Wildcard Actions exist to reward players for interacting creatively with the battlefield (and the other combatants on it).
+	When a player proposes a Wildcard:
+	1. Ask what they are trying to accomplish.
+	2. Decide whether it is reasonably possible.
+	3. Choose the simplest resolution.
+	4. Apply a meaningful result.
+	Common resolutions include:
+	- Skill Checks
+	- Contested Checks
+	- Saving Throws
+	- Granting Advantage or Disadvantage
+	- Forced movement
+	- Improvised damage
+	- Temporary environmental effects
+	Wildcards should not simply duplicate another Action or provide an extra attack. Creative Wildcards may receive Advantage.
+	Repeated attempts to exploit the same Wildcard may receive Disadvantage or simply stop working when circumstances no longer support them.
+	For more information on Wildcard Actions, see Chapter XX.
+	Examples:
+	- Shoving a bookshelf onto an enemy may cause damage and knock them Prone.
+	- Cutting a rope may drop a chandelier.
+	- Throwing sand into someone's eyes may briefly impose Disadvantage.
+	- Smashing a pipe may fill an area with steam.
+	- Kicking an enemy off a ledge may cause fall damage.
+	Do not require the player to have a card for every clever idea. Instead, favor the fiction. That is what the Wildcard Action is for!
+
+IMPROVISED DAMAGE:
+	Use Improvised Damage when something in the environment causes harm but does not have a predefined damage value.
+	Examples include: Falling objects, fire, collapsing structures, explosions, dangerous machinery, improvised weapons, environmental hazards
+	Improvised damage should be though of in terms of number of d6 dice rolled. Most improvised damage falls in the 1d6-10d6 range. However, extreme situations may call for far more than 10d6. 
+	Choose damage based on how dangerous the event actually is.
+	Do not overthink exact realism. A falling chandelier does not need calculations involving its mass, acceleration, and ceiling height. Simply decide how dangerous the situation is, roll a reasonable amount of damage, and continue playing.
+	Improvised damage does not always happen automatically. Depending on the situation:
+	- The attacker and the target may make a contested Check.
+	- The target may make a Saving Throw.
+	- A successful roll may reduce or avoid the damage.
+	- Particularly clever setup may grant Advantage.
+	Reward creativity without allowing environmental tricks to become universally superior to Designed Abilities.
+
+ON RUNNING MAJOR VILLAINS:
+	A memorable villain is more than an enemy with large amounts of HP. Major villains should want something. They should take actions in pursuit of that goal, whether the player characters are present or not.
+	Ask questions like:
+	- What does this villain want?
+	- Why do they want it?
+	- What are they willing to do to obtain it?
+	- What resources do they control?
+	- What are they afraid of losing?
+	- What will they do if the characters interfere?
+	- What happens if nobody stops them?
+	A villain does not need to be sympathetic, but they should generally be understandable. "Because they are evil" is rarely as interesting as a specific motive.
+	Let the villains act! Do not keep important villains frozen in place until the player characters arrive. If the characters ignore a threat, the threat may advance.
+	The villain might:
+	- Recruit allies
+	- Gain political influence
+	- Acquire an artifact
+	- Attack someone important
+	- Relocate
+	- Fortify a position
+	- Complete part of a larger plan
+	- Learn more about the player characters
+	The world should react to the players' choices.
+	Do not protect villains from the players! If the players devise a clever and plausible way to undermine, capture, expose, or even kill a major villain earlier than expected, strongly consider letting it work (if appropriate).
+
+ASSESSING PLAYER-DESIGNED ABILITIES:
+	OSK gives players unusually broad authority to design their own mechanical abilities.
+	The GM therefore has a responsibility to assess those Abilities before and during play. This assessment should be collaborative rather than adversarial!
+	Your goal is not to search for reasons to reject an Ability. Your goal is to help the player express the character concept they want while keeping the Ability understandable, balanced, and compatible with the rest of the game.
+	When reviewing an Ability, first ask: What is this Ability supposed to do? Then assess whether the card actually accomplishes that purpose cleanly.
+	Consider questions such as:
+	- Does it preserve the fantasy or function of its Source Ability?
+	- Is the Source Ability appropriate for the character's Classes and approximate Level?
+	- Does the card fit comfortably on a 3x5 card?
+	- Can it be resolved quickly?
+	- Are its Range, Targets, Damage, Duration, reliability, and secondary effects clearly defined?
+	- Does it require Cooldown when appropriate?
+	- Are its strongest benefits paired with meaningful limitations?
+	- Does it trivialize a broad category of challenges?
+	- Does it undermine another player's specialty?
+	- Does it rewrite a core game system unnecessarily?
+	- Would the Ability still seem reasonably fair if an enemy used something similar against the players?
+	Do not evaluate individual parameters in isolation. Judge the complete package.
+	One Ability may have unusually high damage because it is short-range and unreliable; another may deal little or no damage because it inflicts a powerful condition.
+	You do not need to perfectly predict how every Designed Ability will perform before approving it.
+	Playtesting is part of design! Approve reasonable ideas in good faith and observe how they function during actual play.
+	If an Ability proves substantially stronger, weaker, slower, stranger, or more disruptive than expected, revise it. Be sure to explain why.
+	Whenever possible, preserve the part of the Ability the player actually cares about and adjust another parameter.
+	For example, if a player's signature lightning blast is dealing too much damage because it also strikes six enemies at long range, reducing its Damage Tier is generally preferable to removing the lightning-blast fantasy entirely.
+	If you believe a player's Ability only works because of an ambiguous interpretation, resolve that ambiguity directly.
+	Do not allow the Ability and then secretly design every encounter to counter it. If a card is a problem....fix the card.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

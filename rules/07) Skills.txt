@@ -1,0 +1,98 @@
+
+
+SKILLS IN OSK
+	Skills in OSK are largely identical to D&D 5E, with a few adjustments.
+	Note that Skills in OSK ARE NOT coupled to Attributes.
+	The GM determines which Skill is appropriate for a given check.
+	Additionally, if a Skill is roleplayed in a particularly clever way, the GM may grant advantage on the check. (Note that Persuasion is a special case in this regard - see below.)
+	If a task does not easily fit into one of the given Skill categories, the GM may call for a check with an Attribute modifier instead.
+	Skills in OSK are intentionally broad, and may achieve more than their standard 5E equivalents.
+	For example, an Arcana check might identify a magical effect, or reveal whether an object is enchanted.
+
+ACROBATICS:
+	Acrobatics represents balance, flexibility, coordination, and controlled movement.
+	Use it to balance on a narrow surface, perform a difficult landing, tumble through an obstacle, or escape certain restraints.
+
+ANIMAL HANDLING:
+	Animal Handling represents your ability to understand, calm, train, ride, or direct animals.
+	Use it to soothe a frightened mount, interpret an animal's behavior, or persuade a wild creature not to attack.
+
+ARCANA:
+	Arcana represents knowledge and practical understanding of magic, enchantments, supernatural forces, and magical creatures.
+	Use it to identify a spell, examine an enchanted object, interpret magical symbols, or detect nearby magical influence.
+
+ATHLETICS:
+	Athletics represents physical training, strength, endurance, and forceful movement.
+	Use it to climb, swim, jump, grapple, shove, break an object, or perform another feat of physical power.
+
+DECEPTION:
+	Deception represents your ability to conceal the truth, mislead others, impersonate someone, or maintain a false story.
+	Use it to lie convincingly, disguise your intentions, create a distraction, or pass yourself off as someone else.
+	At the GM's discretion, Deception Checks can follow the same special rules as Persuasion Checks (see below).
+
+HISTORY:
+	History represents knowledge of past events, cultures, nations, wars, rulers, and important figures.
+	Use it to recall historical information, recognize an ancient symbol, or understand the significance of a location or artifact.
+
+INSIGHT:
+	Insight represents your ability to interpret emotions, intentions, behavior, and social cues.
+	Use it to recognize deception, determine someone's mood, anticipate their likely response, or understand an unspoken motive.
+
+INTIMIDATION:
+	Intimidation represents your ability to influence others through fear, threats, force, or overwhelming presence.
+	Use it to frighten an opponent, compel cooperation, or discourage someone from taking action.
+
+INVESTIGATION:
+	Investigation represents careful examination, deduction, research, and the discovery of concealed information.
+	Use it to search an area, find hidden objects, reconstruct events, analyze clues, or uncover the workings of a trap.
+
+MEDICINE:
+	Medicine represents knowledge of injury, illness, anatomy, treatment, and first aid.
+	Use it to restore HP through the First Aid action.
+	Use it to diagnose a condition, stabilize an injured creature, or identify a poison or disease.
+
+NATURE:
+	Nature represents knowledge of plants, animals, weather, ecosystems, and natural phenomena.
+	Use it to identify a creature or plant, predict weather, understand an environment, or recognize a natural hazard.
+
+PERFORMANCE:
+	Performance represents your ability to entertain, captivate, or emotionally affect an audience.
+	Use it to sing, dance, act, play an instrument, tell a story, or deliver a dramatic speech.
+
+RELIGION:
+	Religion represents knowledge of gods, faiths, rituals, sacred traditions, divine forces, and supernatural beliefs.
+	Use it to identify religious symbols, recall doctrine, pray for divine aid, perform a ritual, or understand the behavior of a divine or unholy creature.
+
+SLEIGHT OF HAND:
+	Sleight of Hand represents precise manual coordination, concealment, and subtle manipulation.
+	Use it to pick a lock, pickpocket a passerby, hide a small object, perform a hand trick, palm an item, or manipulate a delicate mechanism unnoticed.
+
+STEALTH:
+	Stealth represents your ability to avoid detection through silence, concealment, timing, or camouflage.
+	Use it to move quietly, hide, follow someone unseen, or conceal signs of your presence.
+
+SURVIVAL:
+	Survival represents practical experience with wilderness travel, tracking, navigation, shelter, and environmental danger.
+	Use it to follow tracks, avoid becoming lost, locate food or water, anticipate an ambush, or endure dangerous terrain.
+
+ENGINEERING:
+	Engineering represents knowledge of machines, structures, construction, traps, and mechanical systems.
+	Use it to repair machinery, assess a bridge's stability, disable a mechanical trap, or build a contraption.
+
+LANGUAGE:
+	Language represents knowledge of spoken, written, signed, coded, and ancient forms of communication.
+	By default, characters understand Common (i.e. the language understood almost universally) and any language associated with their Species.
+	Use Language to translate unfamiliar writing, understand a related language, interpret a code, or communicate across a language barrier.
+	A character with a +12 or +15 Language modifier is effectively a polyglot.
+
+[SPECIAL SKILL] PERSUASION:
+	Persuasion represents your minimum competence in reasoned or charismatic social influence.
+	Use it to persuade, impress, negotiate, haggle, flirt, or request cooperation.
+	Your Persuasion modifier is the minimum modifier added to a Persuasion Check.
+	However, if a player engages in impressive, clever, or dramatic roleplaying, the GM may grant a higher modifier (from +3 to +15).
+	Additionally, note that a successful Persuasion Check cannot still force another character to act irrationally or against deeply held convictions.
+
+
+
+
+

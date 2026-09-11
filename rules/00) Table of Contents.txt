@@ -1,0 +1,240 @@
+
+
+
+CHAPTER 1: INTRODUCTION
+
+CHAPTER 2: IF YOU ARE NEW TO TTRPGs
+	Core Design Goals
+	What Do I Need To Play?
+	What Is A TTRPG?
+	The Game Master
+	The Players
+	The Basic Flow of Play
+	The Fiction Comes First
+	When To Roll Dice
+	Checks
+	Attributes And Skills
+	Playing Your Character
+	Working As A Group
+	Asking Questions
+	Failure
+	Combat
+	You Do Not Need To Know Everything
+
+CHAPTER 3: IF YOU ARE COMING FROM D&D 5E
+	OSK Is A D&D-5E-Adjacent Framework
+	Characters And Classes
+	Ability Cards
+	Attributes and Skills
+	Combat In Brief
+	The Action Economy
+	Damage and Weapons
+	Armor Class
+	Other Important Differences
+	Rulings Over Rules
+
+CHAPTER 4: GAMEPLAY BASICS
+	Timeout
+	Character Sheet and Cards
+	Card Types
+	Deck & Loadout
+	Hit Points
+	Death / Death Saving Throws
+	Temporary Hit Points
+	Recovery Points
+	Resting
+	Damage Types
+	Damage Vulnerability / Resistance / Immunity
+	Fall Damage
+	Skill Checks
+	Advantage and Disadvantage
+	Stacking Advantage / Disadvantage
+	Difficulty Classes
+	Saving Throws
+	Contested Checks
+	Inspiration
+	Conditions
+	[Condition] Exhausted
+	[Condition] Prone
+	[Condition] Restrained
+	Wealth	
+	Experience
+
+CHAPTER 5: CHARACTER IDENTITY
+	OSK's Character-Design Philosophy
+	Backstory and Goals
+	Beliefs and Personality
+	Relationships, Strengths, and Flaws
+	Details and Embodiment
+	Character Growth
+	Alignment
+
+CHAPTER 6: CHARACTER DESIGN
+	Basics of Character Design
+	Character Creation Procedure
+	Species
+	Classes
+	Languages
+	Character Attributes
+	Character Skills
+	Abilities
+	Combat Modifier / Combat Save DC
+	Inventory / Starting Gear
+	Leveling Up
+	Attribute / Skill Bubbles
+	Level-Up Chart
+
+CHAPTER 7: SKILLS
+	Skills In OSK
+	Acrobatics
+	Animal Handling
+	Arcana
+	Athletics
+	Deception
+	History
+	Insight
+	Intimidation
+	Investigation
+	Medicine
+	Nature
+	Performance
+	Religion
+	Sleight of Hand
+	Stealth
+	Survival
+	Engineering
+	Language
+	[Special Skill] Persuasion
+
+CHAPTER 8: COMBAT
+	The Grid
+	Combatants and Teams
+	Beginning Combat
+	Initiative
+	Surprise
+	Ending Combat
+	Loadout in Combat
+	Three Actions Per Turn
+	[Action Type]: Use Ability
+	[Action Type]: Use Equipment
+	[Action Type]: Use Consumable
+	[Action Type]: Movement
+	[Action Type]: Reconfigure
+	[Action Type]: First Aid
+	[Action Type]: Wildcard
+	Wildcard Limitations
+	Example Wildcard Actions
+	Hold & Trigger
+	Between-Turn Effects
+	The Cooldown Queue
+	Combo Cards
+	High-Level Abilities
+	Armor Class
+	Attack Rolls
+	Over-AC / Under-AC
+	Offensive Saving Throws
+	Critical Hits
+	Critical Misses
+	Light of Sight / Cover
+	Attacks of Opportunity
+	Flanking
+	Improvised Damage
+	Terrain
+	Dying
+
+CHAPTER 9: ABILITY DESIGN BASICS
+	The Ten Commandments of Ability Design
+	The Basics of Ability Design
+	3x5 Notecards
+	Card Layout
+	A Warning to Powergamers and Optimizers
+	The Ability Design Procedure
+	Step 1) Choose a Source Ability
+	Step 2) Keep the Concept Simple
+	Step 3) Consider the Tradeoffs/Limitations
+	Step 4) Write the Card
+	Step 5) Assess the Designed Ability
+	Step 6) Revise After Testing
+	The Cooldown Queue
+	Cooldown Queue for Sustained Abilities
+	Designing Combo Cards
+	Resolution Mechanics
+	Under-AC and Enemy-Saves Results
+	Retroactive Ability Card Changes
+	Limits on Retroactive Changes
+	Overlapping Abilities
+	Combining Source Abilities
+	Designing High-Level Abilities
+	Reflavoring Abilities
+	System Modularity (a.k.a When To Throw Ability Guidelines Out The Window)
+
+CHAPTER 10: ABILITY PARAMETERS AND BALANCE
+	About Ability Parameters and Balance
+	Example Ability Parameters
+	Hard Boundaries
+	Ability Damage Tiers
+	Damage Tiers Are Guidelines
+	Ability Ranges
+	Area-of-Effect Shapes
+	Ability Balancing Guidelines
+	Boosting Ability Output
+
+CHAPTER 11: ABILITY TYPE ANALYSIS
+	About Ability Types
+	Types of Abilities To Avoid
+	Hybrid Abilities
+	[Ability Type] Damage
+	[Ability Type] Healing
+	[Ability Type] Buff / Debuff
+	[Ability Type] Movement
+	[Ability Type] Passive Abilities
+	[Ability Type] HP Increase
+	[Ability Type] Utility / Non-Combat
+	[Ability Type] Defensive / Protective
+	[Ability Type] Control
+	[Ability Type] Transformations
+	[Ability Type] Summoning
+	[Ability Type] Information / Divination
+	[Ability Type] Resurrection
+	[Ability Type] Nova
+
+CHAPTER 12: EQUIPMENT & CONSUMABLES
+	Equipment
+	Equipment In Your Loadout
+	Equipment Cooldown
+	Combo Equipment
+	Equipment That Modifies Abilities
+	Passive Equipment
+	Weapons, Armor, and Shields
+	Packs and Kits
+	Found Equipment
+	Un-Carded Equipment
+	Equipment Limitations
+	Designing Equipment Cards
+	Consumables
+	Using Consumables
+	Consumable Effects
+
+CHAPTER 13: FOR THE GM
+	TBD
+
+CHAPTER 14: EXAMPLES OF PLAY
+	TBD
+
+CHAPTER 15: EXAMPLE CARDS
+	Example Species Cards
+	Example Equipment
+	Example Consumables
+	Example Ability Cards
+
+
+
+
+
+
+
+
+
+
+
+

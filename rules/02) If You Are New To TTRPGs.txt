@@ -1,0 +1,100 @@
+
+
+WHAT IS A TTRPG?
+	A tabletop roleplaying game is a shared storytelling game.
+	Each player controls a character in an imagined world.
+	One player takes the role of the Game Master.
+	The rules and dice help determine what happens when the outcome is uncertain.
+
+THE GAME MASTER
+	The Game Master describes the world, its inhabitants, and the situations the characters encounter.
+	The Game Master controls enemies, monsters, and other non-player characters.
+	The Game Master decides when a dice roll is necessary.
+	The Game Master interprets the rules and makes rulings when no exact rule applies.
+	The Game Master is not the players' opponent. Their goal is to present interesting situations and help everyone create an enjoyable game.
+
+THE PLAYERS
+	Each player controls one main character.
+	You describe what your character says, thinks, and attempts to do.
+	You do not need to speak "in character" unless you want to.
+	You are encouraged to ask questions about the situation before making decisions.
+	Your character can attempt anything that makes sense, even if it is not explicitly on their character sheet or their cards.
+
+THE BASIC FLOW OF PLAY
+	1) The Game Master describes the situation.
+	2) The players ask questions and describe what their characters do.
+	3) The Game Master determines the results.
+	4) Dice are rolled if the outcome is uncertain.
+	5) The situation changes, and the process repeats.
+
+THE FICTION COMES FIRST
+	Always describe what your character is trying to accomplish. The rules are used to resolve that action.
+	You do not necessarily need to name a specific Skill or game mechanic before describing what you do.
+	The Game Master decides which rule or roll best fits the situation.
+
+WHEN TO ROLL DICE
+	Dice are rolled when an action could meaningfully succeed or fail.
+	Trivially easy actions, or actions where the outcome is certain, usually do not require a roll.
+	Impossible actions usually cannot be achieved by any roll at all. 
+	The Game Master tells you what dice to roll and which modifier to add.
+
+CHECKS
+	A "Check" determines how well your character performs an uncertain task.
+	Most checks are resolved with a standard procedure: roll a d20, add the relevant modifier, and compare the total to a Difficulty Class.
+	The Difficulty Class is a number chosen by the DM that represents how challenging the task is to accomplish.
+	If the total meets or exceeds the Difficulty Class, the Check succeeds.
+	A higher result may produce a better outcome at the Game Master's discretion.
+	Typically, rolling a 20 on the d20 (called a "Natural 20") means an exceptionally good result on your character's part (narratively, mechanically, or both). 
+	Conversely, rolling a 1 on the d20 (a "Natural 1") may mean an exceptionally poor result, at the GM's discretion. 
+
+ATTRIBUTES AND SKILLS
+	Attributes describe your character's broad physical and mental capabilities.
+	There are six attributes: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
+	Skills describe their training in more specific areas.
+	The Game Master decides whether an Attribute, Skill, or another modifier applies to a roll.
+	Your character sheet lists the modifiers you add.
+
+PLAYING YOUR CHARACTER
+	Consider what your character wants and how they usually approach problems.
+	You are not required to make the most efficient decision.
+	Mistakes, risks, and unusual choices can make the game more interesting.
+	Your character may disagree with other characters, but players should continue cooperating with each other.
+
+WORKING AS A GROUP
+	TTRPGs are cooperative games. Give other players room to speak and make decisions.
+	Avoid deliberately disrupting the game or preventing others from participating.
+	Share information your character would reasonably communicate.
+	Help create opportunities for every character to contribute.
+
+ASKING QUESTIONS
+	You are always allowed to ask what your character can see, hear, know, or reasonably understand.
+	You may ask the Game Master to clarify a rule or situation.
+	If you are unsure what to do, ask the group for suggestions.
+	Calling a Timeout pauses play so the group can resolve confusion or discomfort.
+
+FAILURE
+	Failure does not mean you played incorrectly.
+	A failed roll may introduce danger, complications, lost time, or difficult choices.
+	Failure should usually move the situation forward rather than stop the game entirely.
+	Characters are expected to face setbacks.
+
+COMBAT
+	Combat begins when the Game Master determines that turn-by-turn action is necessary.
+	Combat uses a grid, Initiative, Actions, Ability cards, and other rules described later in this book.
+	On your turn, decide what your character is trying to accomplish and use your Actions accordingly.
+	You may ask other players for help understanding your options.
+
+YOU DO NOT NEED TO KNOW EVERYTHING
+	You are not expected to memorize the entire rulebook.
+	Learn the basic rules that apply to your character and refer to the book when necessary.
+	More experienced players may help explain rules, but the Game Master makes the final ruling.
+	The best way to learn OSK is by playing.
+
+
+
+
+
+
+
+
+

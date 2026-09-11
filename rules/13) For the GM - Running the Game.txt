@@ -1,0 +1,214 @@
+
+THE GAME MASTER'S ROLE
+	The GM describes the world, portrays its inhabitants, presents challenges, controls enemies, and decides how the rules apply when the outcome of an action is uncertain.
+	The GM is not the players' opponent. Your goal is not to defeat the player characters. 
+	Your goal is to present situations where their decisions matter, their abilities are useful, their mistakes have consequences, and everyone at the table has an enjoyable game.
+	You are also not responsible for determining the story's outcome in advance.
+	Present situations, people, dangers, opportunities, and consequences. Allow the players' decisions and the dice to determine what happens next.
+	OSK gives the GM substantial authority. Use that authority to keep the game moving, preserve the agreed tone of the campaign, and make reasonable judgments when unusual situations arise.
+	You will occasionally make the wrong call. That is totally fine! It is a natural part of learning and running the game.
+	Make the best ruling you can, continue playing, and reconsider it later if necessary.
+
+RULINGS, NOT RULES
+	OSK deliberately does not contain a detailed rule for every possible situation.
+	When a situation is not covered by an explicit rule, use common sense, the established fiction, and the existing mechanics to make a ruling.
+	The GM has final authority in these situations. 
+	Ask questions about these situations, such as: 
+	- What is the character attempting to accomplish? 
+	- Does it make sense in the current situation? 
+	- Is the outcome uncertain? 
+	- Is there already a mechanic that can resolve it?
+	- What would be a reasonable consequence of success or failure?
+	Whenever possible, resolve unusual situations with existing tools (such as: Skill Checks, Saving Throws, Contested Checks, Advantage/Disadvantage, Improvised Damage, and Conditions).
+	Consistency is useful, but consistency should not become a straightjacket. A ruling made during one unusual situation does not automatically become a permanent universal rule. Circumstances may differ.
+	If a ruling is likely to recur frequently, make a note of it and discuss it with the group between sessions.
+	It is not necessary to spend ten minutes searching through rules in order to make a perfect ruling. Simply make the ruling with your best judgment and continue playing. This is how the game is intended to work!
+
+CALLING FOR CHECKS:
+	Do not call for a Check merely because a character attempts to do something.
+	Call for a Check when: (1) The outcome is uncertain, (2) Success and failure are both reasonably possible, and (3) Failure would have a meaningful consequence.
+	If an action is trivial under the circumstances, simply allow it to succeed.
+	If an action is genuinely impossible, simply say that it cannot work. A Natural 20 does not allow a character to accomplish something that is physically, logically, or narratively impossible.
+	Likewise, avoid using Checks to withhold information or accomplishments that characters should reasonably receive automatically. 
+	For example, if a professional blacksmith examines an ordinary sword, they probably do not need to roll to recognize that it is poorly made.
+	Checks are most useful when the result creates uncertainty that matters.
+	Skills in OSK are deliberately broad and are not permanently tied to specific Attributes.
+	Choose whichever Skill, Attribute, or other modifier best represents what the character is actually doing. If two different approaches would reasonably work, you may allow the player to choose between them.
+	Avoid calling for rolls excessively or repeatedly. Repeated Checks for essentially the same task usually slow the game without improving it. 
+	For example, if a character succeeds on a Check to climb a difficult wall, they generally do not need to make another Check every few feet unless the circumstances materially change.
+
+DETERMINING DCs:
+	A Difficulty Class represents how difficult a task is to accomplish under the current circumstances. Lower DCs represent easier tasks. Higher DCs represent harder tasks.
+	A useful general scale is:
+	- DC 05: Very easy
+	- DC 15: Moderately difficult
+	- DC 20: Difficult
+	- DC 30: Extraordinarily difficult
+	These numbers are guidelines rather than rigid categories.
+	For example, climbing a rough stone wall might be approximately DC 10, while climbing a sheer wall covered in ice might be approximately DC 25.
+	DCs generally should not exceed 30. Beyond that, strongly consider whether the task is simply impossible under the current circumstances.
+	Do not increase the DC merely because a particular character has a high modifier. A DC describes the difficulty of the task, not the character attempting it.
+	For example, the same locked door should not mysteriously become harder to pick because the group's expert thief is standing in front of it.
+	Characters invested Skill Points specifically so that they could become exceptionally competent. So let them be exceptionally competent!
+	When circumstances make a task substantially easier or harder, you can change the DC. Alternatively, you can simply grant Advantage or Disadvantage.
+	For example: Climbing during a violent storm may impose Disadvantage; Using excellent climbing equipment may grant Advantage; Attempting the climb while both conditions apply may cause the Adv/Disadv to cancel each other out!
+	Use whichever approach is easiest to adjudicate and understand.
+
+PACING:
+	Pacing is the rate at which meaningful things happen during the game.
+	Good pacing does not mean that everything must happen quickly. A tense negotiation, emotional conversation, mystery, or tactical decision may deserve substantial time.
+	The important question is whether the players are engaged with what is happening.
+	When a scene has accomplished its purpose, move forward.
+	Likewise, if the players are deeply engaged with an unexpected scene, you do not need to cut it short merely because it was not in your preparation.
+	Watch for stagnation. A scene may be stalling if:
+	- The players are repeatedly discussing the same possibilities.
+	- Nobody knows what information they are missing.
+	- The group believes there is one specific solution but cannot find it.
+	- The characters have already succeeded but play has not moved forward.
+	- A player has been unable to meaningfully participate for an extended period.
+	When this happens, introduce information, clarify the situation, summarize uneventful activity, change the circumstances, or simply find an excuse to move forward.
+	As the GM, you control the fundamental flow of information at the table.
+
+SESSION ZERO:
+	A Session Zero is a discussion held before normal campaign play begins. It is a VERY STRONGLY RECOMMENDED practice!
+	Because players can create their own Abilities and adapt material from other games, the group should establish expectations before character creation.
+	Discussion topics can include:
+	- The campaign's setting
+	- The campaign's tone
+	- The general premise
+	- What kinds of characters fit the campaign
+	- Permitted Classes and Species
+	- Permitted source material
+	- Whether material from other TTRPGs may be used when designing Abilities
+	- Expected Ability complexity
+	- Expected power level
+	- Character relationships and group cohesion
+	- Subjects the group does not want included
+	- Any house rules or modified OSK rules
+	- How frequently the group expects to play
+	- How absent players will be handled
+	- Whether characters can die permanently
+	- How resurrection works, if relevant
+	- Any campaign-specific boundaries
+	The GM should explain significant restrictions before players invest time designing characters.
+	Example: If firearms do not exist in the setting, say so before somebody builds an entire gunslinger.
+	Example: If teleportation magic fundamentally conflicts with the campaign premise, establish that boundary before somebody creates a teleportation specialist.
+	Session Zero does not permanently settle every question. The group may discover during play that an expectation, rule, Ability, or boundary is not working as intended.
+	Revisions like these are a normal part of the game! Simply discuss the issue, and make adjustments as necessary. 
+
+SESSION PREPARATION:
+	Remember that as the GM, your job is to prepare situations for the players to interact with, and NOT to prepare scripts with predetermined outcomes!
+	You generally need to know:
+	- Where the characters are
+	- What is currently happening
+	- Who or what is involved
+	- What important NPCs want
+	- What threats or opportunities exist
+	- What may happen if the characters do nothing
+	- What information the characters can discover
+	- What combatants or stat blocks might reasonably be needed
+	It's impossible to predict exactly what the players will do. If your preparation only works when the players make one specific sequence of decisions, then it is problematically fragile.
+	Instead, understand the situation well enough that you can determine how it reacts. Preparation is most valuable when it helps you improvise.
+	Do not prepare twenty pages of material merely because you feel that a GM is supposed to. You only need to prepare what helps you run the game!
+
+RESTING AND ATTRITION:
+	A normal Long Rest (also simply called a Rest) requires approximately 8–12 hours and restores HP and Recovery Points. (There are no "short rests" in OSK.)
+	Recovery Points are the game's primary attrition resource. Every time a character regains HP, they normally spend one Recovery Point, regardless of the amount healed.
+	As a result, the long-term danger of multiple encounters is not merely losing HP - it is losing the ability to recover HP.
+	Rests should follow the fiction. Do not prevent the characters from Resting merely because you want them to remain depleted.
+	Likewise, a Rest is not always automatically possible merely because the players want one.
+	Ask whether the characters actually have the time and opportunity to spend 8–12 hours resting.
+	If they are sleeping safely in a fortified town, the answer is probably yes. If they stop to sleep in the middle of an actively collapsing fortress while enemies are searching for them....not so much.
+	Not every adventure needs to pressure Recovery Points heavily.
+	Some adventures may contain one enormous confrontation while the characters are fully rested; others may involve several dangerous situations before a safe Rest becomes practical. Both are valid.
+	However, be aware that frequent unrestricted Resting substantially reduces the importance of Recovery Points. And conversely, constantly denying Rest can make the campaign far more punishing than intended.
+	Choose the level of attrition that fits the adventure.
+	If Resting will have consequences, give the players enough information to make a meaningful decision.
+	For example: "The ritual may be completed by morning", "The kidnappers may relocate", "The army may arrive tomorrow", etc
+	The wounded characters can still choose to Rest, but now that choice has a cost they understand.
+	Avoid arbitrary "you cannot Rest because the GM says so" restrictions.
+
+NON-COMBAT CHALLENGES:
+	OSK does not need a dedicated subsystem for every kind of non-combat activity. Most challenges can be resolved through ordinary description, decisions, Checks, consequences, and GM adjudication.
+	Start with the situation. Ask what the players are trying to accomplish. Then determine what actually needs to be resolved mechanically.
+	A complex challenge does not necessarily require a complex rule.
+	Suppose the characters are attempting to infiltrate a fortified palace. Rather than automatically turning this into ten consecutive Skill Checks, present the actual problems:
+	- Guards watch the entrance.
+	- Servants enter through another gate.
+	- The walls are difficult to climb.
+	- An invitation might be forged.
+	- A sympathetic noble may be persuaded to help.
+	The players choose an approach. Resolve the uncertain parts of that approach. Then update the situation.
+	The challenge becomes interesting because of the decisions - NOT simply because of the number of dice rolled!
+	Let character Abilities matter! Characters may possess Abilities, Equipment, Species traits, or Skills specifically intended to solve unusual problems. Let them work.
+	If a character can breathe underwater, an underwater obstacle should feel different for them. If a character has invested heavily in Language, they should often be able to communicate where others cannot.
+	Do not continually invent reasons why a character's defining capabilities fail merely to preserve a challenge you had planned. Instead, allow those capabilities to change the nature of the challenge.
+
+INFORMATION AND CONSEQUENCES:
+	Players can only make meaningful decisions using information they possess. Do not deliberately hide obvious information merely to make the game harder.
+	Tell players what their characters can plainly perceive, and tell them things their characters would reasonably know.
+	If an experienced adventurer would recognize that jumping into a particular chasm is probably fatal, or if a wizard would immediately recognize an elementary magical symbol, be sure to communicate that to your players!
+	A Check should usually be used for genuinely uncertain or concealed information - not for basic facts necessary to understand the situation.
+	Important information should not have only one path. If the players need a piece of information in order for the adventure to continue, avoid placing it behind one mandatory Check.
+	If failure means "the adventure stops," the Check is probably poorly designed.
+	Important information may be discoverable through several routes, such as: searching, questioning an NPC, examining an object, following evidence, using an Ability, or applying relevant character knowledge.
+	A successful Check may reveal information faster, more completely, or without complications.
+	Failure should change the situation rather than erase the possibility of progress.
+	You do not need to reveal every hidden consequence, but whenever practical, players should understand the likely stakes of a risky decision before committing to it.
+	Do not rely on information the players could not reasonably have known and then punish them for failing to guess it. Consequences feel fair when players can look backward and understand how their choices produced them.
+
+FAILURE, DEGREES OF SUCCESS, AND FAILING FORWARD
+	Failure should generally move the game somewhere. A failed Check does not have to mean "Nothing happens, try again."
+	Instead, the appropriate result depends on what was being attempted. Failure may mean:
+	- The character succeeds, but takes longer than expected.
+	- The character succeeds, but attracts unwanted attention.
+	- The character gets only part of what they wanted.
+	- The character loses an opportunity.
+	- The situation becomes more dangerous.
+	- An NPC becomes suspicious.
+	- Equipment is damaged or lost.
+	- The characters reveal information about themselves.
+	- The opposition gains an advantage.
+	- The character simply fails, and must try a different approach.
+	"Failing forward" does not mean characters must eventually succeed at everything.
+	Sometimes a locked door remains locked, an NPC refuses to cooperate, the villain escapes, or the characters simply lose.
+	The important principle is that the situation should remain capable of changing. Failure creates the next problem.
+	Not every Check needs a binary result. Often, using "degrees of success" is more useful: the total of the check may determine the quality of the outcome.
+	A character who barely succeeds may accomplish the basic goal, whereas a character who greatly exceeds the DC may accomplish it faster, more thoroughly, more quietly, or with some additional benefit.
+	Likewise, a severe failure may create a greater complication than a narrow failure.
+	Use this when it adds something meaningful. Do not turn every Check into a complicated table of outcomes.
+	Natural 20s and Natural 1s should ALWAYS feel like special results. 
+	A Natural 20 should normally produce an especially favorable outcome. A Natural 1 should normally produce an especially unfavorable outcome.
+	Neither needs to produce absurd, utterly unrealistic results. Keep the result grounded in what the action could reasonably accomplish.
+
+CAMPAIGN-SPECIFIC CHARACTER BOUNDARIES
+	OSK intentionally allows an enormous range of character concepts. That does not mean every possible character belongs in every campaign.
+	The GM and group should establish boundaries appropriate to the setting, tone, and premise.
+	Thes boundaries may include things such as: allowable Species and Classes, allowable material imported from other TTRPGs, firearms, resurrection, and tone-inappropriate character concepts. 
+	These restrictions are not inherently limitations on creativity, but rather constraints that help characters feel like they belong in the same world.
+	A grim low-magic campaign and a high-fantasy superhero campaign may both use OSK, while permitting radically different character options.
+	Whenever possible, state important restrictions and boundaries during Session Zero. Do not allow a player to spend hours designing a character and then announce that their central concept is prohibited.
+	Likewise, players should ask before designing around material whose compatibility with the campaign is uncertain.
+	Boundaries should have a purpose. Avoid banning options arbitrarily, and explain the reasoning when practical.
+	"The campaign takes place in a setting where intercontinental teleportation is impossible" is much easier to work with than "I don't like teleportation."
+	A restriction should generally be in service of things such as: The campaign premise, the setting, the intended tone, mechanical compatibility, table comfort, and preferred style of play.
+	Players can then design toward the intended experience rather than trying to guess the GM's preferences.
+	OSK is deliberately flexible. Use that flexibility to create the kind of campaign your group actually wants to play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

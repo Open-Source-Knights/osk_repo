@@ -1,0 +1,221 @@
+THE TEN COMMANDMENTS OF ABILITY DESIGN:
+	Thou Shalt Not Deliberately Design Disruptive, Problematic, Or Unbalanced Abilities.
+	Thou Shalt Base Thy Designed Abilities On Source Abilities From Thy Chosen Classes.
+	Thou Shalt Preserve The Source Ability's Fantasy, Function, Or Both.
+	Thou Shalt Make All Abilities Fit On A 3x5 Card.
+	Thou Shalt Define Thy Ability Mechanics And Characteristics Clearly.
+	Thou Shalt Temper Power With Limitations.
+	Thou Shalt Ensure Quick And Simple Resolution.
+	Thou Shalt Respect The Cooldown Queue And Loadout.
+	Thou Shalt Avoid Permanent Answers To Broad Categories Of Problems.
+	Thou Shalt Respect Thy GM's Judgment On Ability Balance.
+
+THE BASICS OF ABILITY DESIGN:
+	Ability design is a conversation, not a strict mathematical formula.
+	OSK does not expect players to build abilities entirely from scratch. Instead, begin with a Source Ability: a spell, feature, maneuver, trait, or similar ability associated with one of your character's Classes.
+	The goal is not to perfectly reproduce the Source Ability. The goal is to preserve its vibe and/or function, while customizing it and making it fast, clear, and fun to use in OSK.
+	A Designed Ability may adjust the Source Ability's damage, range, or other traits and mechanics. However, major strengths should generally remain paired with comparable limitations.
+	In OSK, complex characters should be created by cleverly crafting and combining simple cards - not by writing complex cards!
+
+3X5 NOTECARDS:
+	EVERY Designed Ability must be represented by a 3x5 notecard (or an equivalent thereof, such as a 3"x5" slip of paper, or a digital image of approximately the same information density).
+	If an ability's text cannot comfortably fit on one card, it is probably too complicated. (And don't shrink the text into unreadability to try to cheat this rule!)
+	Whenever possible, remove exceptions and unnecessary wording rather than adding more text.
+
+CARD LAYOUT:
+	Your Ability card should contain the following information:
+	1. The Ability's name
+	2. The Level at which the Ability was designed and gained (or substationally modified - see RETROACTIVE ABILITY CARD CHANGES)
+	3. The Source Ability, including its original Class or source
+	4. Flavor text (a short description of what the Ability looks, sounds, or feels like - be sure to make it badass!)
+	5. The Ability's mechanics and resolution
+	Mechanics should include only information necessary to use the Ability during play.
+	Pro-Tip: A "portrait" orientation (with the notecard so the short edges are at the top and bottom) is often more space-efficient than "landscape" orientation.
+
+A WARNING TO POWERGAMERS AND OPTIMIZERS:
+	OSK gives players unusually broad control over their own mechanical abilities. That freedom depends on players designing in good faith.
+	Do not deliberately exploit gaps, ambiguities, unintended combinations, or generous interpretations to create an obviously overpowered Ability.
+	Optimization itself is not a problem. The problem is creating an Ability whose purpose is to bypass the game's intended tradeoffs.
+	If an Ability proves too powerful, too vague, too disruptive, or too complicated, it must be revised.
+	The GM is the final arbiter of whether a Designed Ability is appropriate for the game.
+
+THE ABILITY DESIGN PROCEDURE:
+	Ability design should generally follow these six steps:
+	STEP 1) Choose a Source Ability.
+	STEP 2) Keep the Concept Simple.
+	STEP 3) Consider the Tradeoffs and Limitations.
+	STEP 4) Write the Card.
+	STEP 5) Assess the Designed Ability.
+	STEP 6) Revise After Playtesting.
+
+STEP 1) CHOOSE A SOURCE ABILITY:
+	Start by choosing a feature, spell, maneuver, or similar ability associated with one of your Classes.
+	The Source Ability should normally be available to a character at approximately the same point in progression as your OSK character. Exact Level equivalence is not required, especially when converting from a system with different advancement.
+	Instead, consider how powerful, important, or defining the Source Ability is within its original game. Ask what originally attracted you to it.
+	Consider its fantasy: What makes it cool, distinctive, or thematic?
+	Consider its function: What does it actually accomplish mechanically?
+	Decide which of those elements your Designed Ability should preserve. A Designed Ability should always have a clear purpose.
+
+STEP 2) KEEP THE CONCEPT SIMPLE:
+	Remove details from the Source Ability that are unnecessary in OSK.
+	Remove or rewrite mechanics that would require excessive calculation, repeated dice rolls, long reference text, or complicated exceptions.
+	Replace unfamiliar mechanics with existing OSK systems whenever practical.
+	DO NOT remove restrictions merely because they are inconvenient. Many restrictions exist specifically to prevent an Ability from becoming too broad or powerful.
+	Keep the part of the Source Ability that made you want it in the first place.
+	In general, the simpler an Ability is to understand during combat, the better.
+
+STEP 3) CONSIDER THE TRADEOFFS/LIMITATIONS:
+	Ask what prevents the Source Ability from being useful in every situation. What aspects of the Source Ability make it balanced and fair?
+	An Ability that is stronger in one dimension should usually be weaker in another.
+	For example: a single-target, close-range Ability with no secondary effects may deal very high damage. Conversely, an Ability that attacks several creatures, functions from long range, applies a strong debuff, or offers significant utility should generally deal less damage.
+	An ability's limitations are the counterbalance that keep it from being the solutions to all problems - which would make for a narratively and tactically boring game!
+	Example limitations include:
+	- Shorter Range
+	- Fewer Targets
+	- Lower Damage
+	- A weaker Under-AC or successful-Save result
+	- Cooldown
+	- Limited Duration
+	- Positioning requirements
+	- Specific valid targets
+	- Personal risk
+	- Self-damage
+	- A delayed effect
+	- Requiring another Ability, object, circumstance, or setup
+	The limitation should be a meaningful counterpoint to the Ability's strongest advantages.
+	The stronger, broader, more reliable, or longer-lasting an effect is, the more substantial its limitations should usually be.
+
+STEP 4) WRITE THE CARD:
+	Write the Ability so that another player could understand it without requiring an explanation from its creator. Clearly state the mechanics that actually matter during play.
+	Remember that your Ability's text MUST fit on a 3x5 notecard!
+	Ensure your Designed Ability contains the following information (where applicable):
+	- Range: How far away may the target be?
+	- Target(s): Who or what can be affected?
+	- Area of Effect: Which squares are affected?
+	- Cooldown: Does the card require Cooldown?
+	- Resolution: Does the Ability use an Attack Roll, Saving Throw, Check, contested Check, or no roll?
+	- Results: What happens on an Over-AC and Under-AC result, or when a target succeeds or fails a Saving Throw?
+	- Damage Output: Which Damage Tier applies?
+	- Damage Type: What type of damage is inflicted?
+	- Duration: How long does the effect last?
+	- Buff/Debuff: Does the Ability help allies or hinder enemies beyond dealing damage?
+	- Conditions: Does the Ability inflict or remove a defined condition?
+	- Limitations: Are there any important requirements, risks, or restrictions?
+
+STEP 5) ASSESS THE DESIGNED ABILITY:
+	Ask yourself these questions about your Designed Ability:
+	- Is its purpose clear?
+	- Is it quick to resolve?
+	- Does it preserve the fantasy, function, or both of its Source Ability?
+	- Are its strongest benefits tempered by meaningful limitations?
+	- Would another player understand the card without explanation?
+	- Does it create an interesting choice rather than an obvious answer?
+	- Does it overlap too strongly with another Ability the character already has?
+	- Does it fall into a category of Ability Types to Avoid, as described in Chatper XX?
+	- Would it feel reasonably fair if an enemy used a comparable Ability against the party?
+	If the answer to any of these questions is no, revise the Ability.
+
+STEP 6) REVISE AFTER TESTING:
+	No amount of theory can perfectly predict how every Ability will behave during actual play. A Designed Ability may need to be  "dialed in", and modified slightly after it is tested in play.
+	Revise an Ability if it proves too strong, too weak, too vague, too complicated, too slow, or too disruptive.
+	Small numerical adjustments are often preferable to completely redesigning a card.
+	Examples include changing Damage Tier, Range, Area, Duration, Cooldown, or the strength of an Under-AC result.
+	However, a major mechanical problem may require a more substantial redesign.
+	Players should not treat post-play revision as a punishment. The goal is for everyone - including the GM - to have fun.
+	Remember: Ability design is an ongoing conversation between the player, the GM, and the group.
+
+ABILITY PARAMETERS:
+	Every Designed Ability is made up of several mechanical parameters that determine what it can do, how reliably it works, and how powerful it is.
+	Think of an Ability's parameters as adjustable "dials" that can be tuned until an ability is balanced.
+	Example parameters include damage dealt, range, number of targets, area of effect, etc.
+	For more on ability parameters and balance, see Chapter XX.
+
+THE COOLDOWN QUEUE:
+	Most powerful or repeatable combat Abilities should require Cooldown (in other words, they should interact with the Cooldown Queue).
+	As a general rule, if the Source Ability consumes an important limited resource in its original system, its OSK equivalent should strongly be considered for Cooldown.
+	Cooldown is not merely a penalty. It creates rotation between different cards and prevents one strong Ability from being repeated every turn.
+	An Ability that does not require Cooldown should generally be weaker, narrower, passive, situational, or otherwise limited.
+	For more on the Cooldown Queue, see Chapter XX.
+
+COOLDOWN QUEUE FOR SUSTAINED ABILITIES:
+	Some TTRPG abilities remain active while their user maintains "concentration" or a similar ongoing commitment.
+	OSK does not use Concentration as a universal mechanic. A simple alternative is to keep the Ability's effect active while its card remains in the Cooldown Queue.
+	When the card leaves the Queue, the effect ends unless the card states otherwise.
+	Particularly powerful sustained effects may require additional limitations.
+	Avoid sustained Abilities that require constant recalculation or repeated bookkeeping.
+
+DESIGNING COMBO CARDS:
+	Abilities with the "Combo" trait are cards that require Cooldown, but which CAN be played on the same turn as another Ability that requires Cooldown.
+	Combo cards can be played either before or after the paired card. Both cards go into Cooldown Slot 1 on the same turn, and both cards move through the Queue simultaneously.
+	Combo cards are intended to support another action rather than compete with full-strength Abilities.
+	If a Source Ability was designed to supplement another action on the same turn, it may be appropriate as a Combo card.
+	D&D 5E Bonus Actions are common candidates, but being a Bonus Action does not automatically make something an appropriate Combo.
+	Combo cards should generally provide secondary damage, mobility, setup, defense, utility, or another supporting effect.
+	A Combo card should not normally be comparable in raw power to a full Ability that occupies the turn's normal Cooldown allowance.
+	Only one Combo card may bypass the normal Cooldown limit during a turn.
+
+RESOLUTION MECHANICS:
+	Whenever practical, preserve the Source Ability's basic method of resolution.
+	If the Source Ability uses an Attack Roll, its OSK equivalent should usually use an Attack Roll. If the Source Ability requires a Saving Throw, its OSK equivalent should usually require a Saving Throw.
+	This is a guideline rather than an absolute rule. Changing the resolution method is acceptable when doing so makes the Ability clearer or better suited to OSK.
+	Attack Roll Abilities should generally require no more than a single Attack Roll, even if the Ability targets multiple opponents. Avoid trying to "split up" one Ability into multiple "mini-Abilities" with multiple Attack Rolls.
+	Attack Roll Abilities normally have both an Over-AC and Under-AC result.
+	The Over-AC result should be meaningfully stronger. The Under-AC result should usually still accomplish something unless the Ability is specifically designed around greater risk.
+	Saving Throw Abilities should likewise define what happens when the target succeeds and when it fails.
+
+UNDER-AC AND ENEMY-SAVES RESULTS:
+	Partial results are an important part of OSK's combat design.
+	An Under-AC result may deal lower-tier damage, remove a secondary effect, shorten a duration, reduce an area, or otherwise produce a weaker version of the Ability.
+	A successful enemy Saving Throw may use similar principles.
+	The weaker result should still be worth resolving quickly. Do not create excessively complicated branching outcomes.
+	Some high-risk Abilities may intentionally have an extremely weak Under-AC result. This may justify unusually powerful Over-AC effects.
+
+RETROACTIVE ABILITY CARD CHANGES:
+	Some Source Abilities improve an existing feature rather than granting an entirely new one.
+	Instead of designing a new card when leveling up, you can choose to make a "major revision" to an existing card, in line with that corresponding Source Ability.
+	Be sure to record on the card the level(s) at which the card was substantially revised. For example: "[L1] Eldritch Blast" may later become: "[L1/L5] Eldritch Blast"
+
+LIMITS ON RETROACTIVE CHANGES:
+	Designed Abilities are not meant to be constantly tweaked, rewritten, or swapped out merely for situational optimization. Once an Ability is balanced and working as intended, it should generally remain part of your character without further modification.
+	However, if a player genuinely dislikes an Ability they've created, the group (and GM) should generally be flexible and understanding in allowing the player to design a replacement Ability.
+
+OVERLAPPING ABILITIES:
+	Two Abilities may perform similar functions, but each should ideally create a meaningfully different choice.
+	Avoid designing several cards where one is simply a stronger version of another in almost every circumstance.
+	Different versions of the same concept can instead vary through range, targets, damage, risk, area, conditions, setup, or utility.
+	Upgrading an existing card may sometimes be cleaner than adding another nearly identical card.
+
+COMBINING SOURCE ABILITIES:
+	A Designed Ability may be based on more than one Source Ability. This is most appropriate when the Source Abilities are individually minor, simple, or closely related.
+	The combined Ability should still have clear and simple to understand, and it should still resolve quickly.
+	Combining Source Abilities does not justify combining their full power without adjustment.
+	If the resulting Ability is stronger, broader, or more flexible than either Source Ability alone, reduce its Damage, Range, Duration, reliability, or other benefits as necessary.
+	Do not combine several strong Source Abilities into a single card simply to gain multiple major effects at once.
+	As always, the final Designed Ability should remain balanced, quick to resolve, and appropriate for its Level.
+
+DESIGNING HIGH-LEVEL ABILITIES:
+	Abilities gained at Levels 9 and 10 called Nova Abilities. 
+	Nova Abilities may deliberately break some of the assumptions that govern ordinary cards. They should feel dramatic, character-defining, and substantially more powerful than normal Abilities.
+	By default, Nova Abilities are usable once per Long Rest.
+	More detailed guidance for Nova Ability design appears in chapter XX.
+
+REFLAVORING ABILITIES:
+	The simplest way to create a Designed Ability is to simply reflavor an existing example Ability card, keeping its mechanics mostly or entirely unchanged while altering its theme. 
+	For example, you might turn "Fireball" into "Iceball" by changing its description and damage type from Fire to Cold. 
+	This is a fast, reliable way to create a custom Ability without needing to rebalance it from scratch.
+
+
+SYSTEM MODULARITY (A.K.A. WHEN TO THROW ABILITY GUIDELINES OUT THE WINDOW):
+	OSK is intentionally modular. Your group may collectively choose to alter any of these guidelines to better suit your preferred style.
+	Example: You can use 5x7 cards instead of 3x5 cards, and/or use digital cards instead of physical.
+	Example: You can throw out Source Abilities and create all Designed Abilities completely from scratch.
+	Example: You can agree that the Loadout should consist of 15 cards instead of 10.
+	Example: You can adjust the overall number of character abilities to start higher than 5 and end higher than 23.
+	Example: You can abandon the battlemap and design all Abilities for theater-of-the-mind play.
+	Example: You can adapt Source Abilities from numerous other TTRPG systems, beyond D&D 5E.
+	Example: You can adapt OSK to many other genres besides Medieval Fantasy (such as sci-fi, or modern tactical shooter).
+	Example: You can adapt OSK to non-TTRPG games, such as board games. 
+	However, changing a guideline should be deliberate. Understand what problem the rule was intended to solve before removing it.
+	Above all, preserve OSK's core priorities: quick resolution, readable abilities, meaningful choices, flexible character concepts, and cooperative judgment.
+
+

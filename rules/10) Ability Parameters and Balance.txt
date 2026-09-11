@@ -1,0 +1,126 @@
+ABOUT ABILITY PARAMETERS AND BALANCE:
+	Every Designed Ability is made up of several mechanical parameters that determine what it can do, how reliably it works, and how powerful it is.
+	Think of an Ability's parameters as adjustable "dials" that can be tuned until an Ability is balanced.
+	Increasing one parameter will often require weakening another in order to keep the Ability balanced.
+	For example, increasing range, number of targets, area of effect, reliability, or secondary effects may justify lowering damage.
+	Likewise, adding meaningful risk, setup requirements, weaker partial results, or other limitations may justify increasing an Ability's power elsewhere.
+	There is no universal mathematical formula for balancing every possible Ability.
+	Instead, compare the Ability as a whole to its Source Ability, consider the interaction between its parameters, and make a good-faith judgment about whether its benefits and limitations are appropriate for its Level.
+	As a general rule, the parameters of a Designed Ability should be roughly similar to those of its Source Ability. (Remember: the Source Abilities were balanced by professional game developers!)
+	The goal is not mathematical perfection. The goal is to create Abilities that are powerful enough to be exciting, limited enough to create meaningful choices, and simple enough to resolve quickly during play.
+
+EXAMPLE ABILITY PARAMETERS:
+	The major parameters include (but are not limited to):
+	- Damage Tier: How much raw damage the Ability deals.
+	- Damage Type: What kind of damage the Ability inflicts.
+	- Range: How far away the Ability can affect a target.
+	- Number of Targets: How many creatures or objects it can affect.
+	- Area of Effect: How large an area the Ability can influence.
+	- Cooldown: Whether the Ability must cycle through the Cooldown Queue before reuse.
+	- Resolution Method: Whether the Ability uses an Attack Roll, Saving Throw, Check, or another method.
+	- Reliability: How consistently the Ability produces its strongest result.
+	- Duration: How long the Ability's effects remain active.
+	- Buffs: Beneficial secondary effects granted to yourself or allies.
+	- Debuffs: Harmful secondary effects imposed on enemies.
+	- Movement: How much repositioning the Ability grants or forces.
+	- Risk: What danger, cost, or drawback the user accepts.
+	Some examples: Increasing range may justify lowering damage; Reducing reliability may justify a stronger successful result; Adding a powerful debuff may be justified by removing damage entirely.
+
+HARD BOUNDARIES:
+	Designed Abilities generally should not directly modify a character's permanent Attributes or Skills.
+	If a Source Ability improves an Attribute or Skill temporarily, its OSK equivalent should generally grant Advantage or another situational benefit instead.
+	Abilities should generally avoid rewriting universal systems when a simpler effect can accomplish the same fantasy.
+	Abilities must never modify the party's Level, or Armor Class.
+
+ABILITY DAMAGE TIERS:
+	Ability damage is organized into five Damage Tiers.
+	Damage Tier represents the approximate amount of raw damage an Ability is allowed to devote to wounding a target.
+	The more substantial secondary benefits an Ability has, the lower its Damage Tier should generally be.
+	Relevant benefits include Range, Area of Effect, multiple Targets, Buffs, Debuffs, mobility, reliability, lasting effects, etc
+	Tier 5: Pure or nearly pure damage. Usually close-range, single-target, and without meaningful secondary effects.
+	Tier 4: Primarily damage, with modest Range, flexibility, or secondary benefits.
+	Tier 3: Moderate damage combined with useful Range, Area, utility, or a meaningful secondary effect.
+	Tier 2: Low damage combined with strong Range, several Targets, substantial Area, or a significant secondary effect.
+	Tier 1: Token damage attached to an Ability whose primary value is control, support, utility, or another powerful effect. Also frequently used for Under-AC damage.
+	Abilities whose non-damage effect is already powerful enough on its own should deal no damage. For example, an Ability that paralyzes an enemy generally should not also inflict damage.
+	Abilities should always use a lower Damage Tier on an Under-AC result (or an Enemy-Succeeds-On-Save result) than on an Over-AC result (or an Enemy-Fails-Save result).
+
+	The Damage Tier table is based on the character's current Level:
+	Level	Tier 1	Tier 2	Tier 3	Tier 4	Tier 5
+	1	1d6+1	2d6+2	3d6+5	4d6+6	5d6+8
+	2	1d6+2	2d6+4	3d6+6	4d6+7	5d6+10
+	3	2d6+4	3d6+5	4d6+7	5d6+9	6d6+11
+	4	2d6+5	3d6+7	4d6+9	5d6+10	6d6+12
+	5	3d6+7	4d6+8	5d6+10	6d6+12	7d6+14
+	6	3d6+8	4d6+10	5d6+12	6d6+13	7d6+15
+	7	4d6+10	5d6+11	6d6+13	7d6+14	8d6+17
+	8	4d6+11	5d6+12	6d6+14	7d6+16	8d6+18
+	9	n/a	n/a	n/a	n/a	Nova
+	10	n/a	n/a	n/a	n/a	Nova
+
+DAMAGE TIERS ARE GUIDELINES:
+	Damage Tiers are balancing tools. The correct Tier depends on the entire Ability rather than any single parameter.
+	Two Abilities with the same range and number of targets may deserve different Damage Tiers because one has a stronger secondary effect, greater reliability, or harsher drawback.
+	Do not increase an Ability's Damage merely because its concept sounds especially dramatic.
+	Instead, preserve that fantasy through its description, effects, risks, or other parameters.
+
+ABILITY RANGES:
+	A card must state its Range whenever it targets something other than the user. 	Range is measured in squares on the combat grid.
+	Melee Abilities normally target an adjacent square.
+	Ranged Abilities state the maximum number of squares they can reach.
+	A target outside the listed Range cannot normally be affected.
+	Longer Range is a significant advantage and may justify lower Damage, fewer Targets, weaker secondary effects, or another limitation.
+	If an Ability affects an Area, its Range determines where that Area may be placed unless the card states otherwise.
+	Abilities that require Line of Sight still follow the normal Line of Sight and Cover rules.
+
+AREA-OF-EFFECT SHAPES:
+	OSK uses simple grid-based Areas of Effect. The standard shapes are lines, grids, and cubes.
+	A line is a continuous series of squares extending in a direction.
+	A grid is an X-by-Y two-dimensional area.
+	A cube is an X-by-Y-by-Z three-dimensional area.
+	OSK DOES NOT use circles, spheres, or cones. If a Source Ability uses those shapes, convert them into lines, grids, or cubes.
+	When converting an area from another system, preserve its approximate practical size rather than obsessing over perfect mathematical equivalence. Exact geometric equivalence is less important than clarity and speed at the table.
+
+ABILITY BALANCING GUIDELINES:
+	There is no universal equation for determining whether an Ability is balanced.
+	Instead, compare its benefits and limitations as a whole. In general, the more benefits an ability has (such as long range, or multiple targets), the less damage it should do. 
+	Ask:
+	- What is the underlying fantasy or vibe of the Source Ability?
+	- Is its primary function damage, healing, control, movement, defense, support, utility, or something else entirely?
+	- How many targets can it affect?
+	- What is its maximum range?
+	- How large is its area-of-effect?
+	- How reliably does it work?
+	- Does it impose a lasting effect?
+	- Should it require Cooldown?
+	- Does it require positioning, setup, risk, or another limitation?
+	- What happens when the Attack Roll is Under-AC, or if Enemy-Succeeds-On-Saving-Throw?
+	- How powerful is the Source Ability relative to other abilities available at the same point in its original game?
+	- What Damage Tier, if any, remains appropriate after accounting for everything else?
+	- Would the Ability still feel reasonably fair if an enemy combatant used it against the player characters?
+	Example: a melee axe attack may reasonably deal more raw damage than a long-range bow attack because the melee combatant accepts the positional risk of being adjacent to an enemy.
+	However, the fantasy/vibe of the Ability still matters!
+	Example: A devastating blunderbuss attack may deserve exceptionally high Over-AC damage despite being ranged. Its limitation might instead be extremely weak Under-AC damage, or another drawback (such as the potential of a gun jam).
+	Example: An Ability based on a spell that paralyzes a target should not then add damage, simply because damage is available as a parameter. To both paralyze AND damage an enemy would risk the ability being unbalanced and overpowered.
+	Ability creation is not about achieving mathematical perfection. It is about preserving the desired fantasy while making a good-faith effort to create an option that fits into the rest of the game.
+	Finally, remember that the GM has final authority over Ability balance.
+	If an Ability proves to be too strong, too vague, too disruptive to pacing, or otherwise problematic - it must be reworked.
+
+BOOSTING ABILITY OUTPUT:
+	Some Source Abilities can increase their output by consuming additional resources than normal. 
+	With Recovery Points as the only resource that suffers from attrition, there is no direct equivalent in OSK.
+	However, Designed Abilities may still allow increased output if the stronger effect carries an appropriate additional cost, beyond being placed into the Cooldown Queue.
+	Possible costs include:
+	- Losing HP
+	- Spending a Recovery Point
+	- Accepting a Condition
+	- Reducing the Ability's reliability
+	- Increasing personal risk
+	- Sacrificing another benefit
+	For example, a healing ability might be designed to allow the character to heal a greater number of HP on an ally than normal by sacrificing some of their own HP, or one of their own Recovery Points.
+	Avoid introducing a new resource counter solely to support an Ability unless the group deliberately wants that added bookkeeping.
+
+
+
+
+

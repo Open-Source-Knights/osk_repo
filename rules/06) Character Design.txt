@@ -1,0 +1,107 @@
+
+
+
+BASICS OF CHARACTER DESIGN:
+	Characters are made up of a Species and two Classes. 
+	All of the character's characteristics, attributes, and abilities are represented on the Character Sheet and the Deck. 
+
+CHARACTER CREATION PROCEDURE:
+	1) Develop the concept of the character you want to portray and build (see Chapter XX).
+	2) Select a Species for your character, and design a Species Card with 1-3 traits.
+	3) Select two Classes for your character.
+	4) Fill in your Character Sheet: Character Name, Attribute Points, Skill Points, Hit Points, Movement, Wealth, Combat Modifier, Combat Save DC, etc (refer to the chart at the end of this chapter).
+	5) Design 5 Ability Cards that fit your character's Classes (see Chapter XX).
+
+SPECIES:
+	Your Species represents your character's biological or supernatural lineage, also sometimes referred to as "race" or "heritage". Examples include humans, elves, dwarves, gnomes, orcs, etc.
+	OSK does not use a fixed Species list. Instead, you can adapt Species from other comparable TTRPGs (provided that those species fit with the setting your group is playing in).
+	This book provides example Species Cards for common fantasy Species (see Chapter XX). You can use one as written, modify it, or use it as a model for your own.
+	Choose a Species that fits both your character concept and the campaign setting.
+	A Species Card should usually contain 1–3 traits that represent the Species' most defining innate characteristics. Design these traits using the same general principles as Ability design (see Chapter XX).
+	Traits that provide minor benefits (such as the ability to see well in the dark) should be one trait of several.
+	Traits that provide major benefits (such as the ability to fly) should generally be the only trait on that Species card (unless the GM and group decide otherwise).
+	Species traits should represent inherent qualities. Training, professions, and learned techniques are usually better represented by Skills, Classes, or Abilities.
+
+CLASSES:
+	Classes define your character's archetype. Most OSK characters are made up of a Primary Class and a Secondary Class, and they gain experience in both Classes simultaneously.
+	Your Classes primarily determine which Source Abilities you can use when designing your own Abilities.
+	When choosing Classes, think about what you want your character to do: fighting style, magic, special techniques, signature abilities, etc.
+	OSK does not use "subclasses"; however, when creating Abilities, you are still free to choose Source Abilities from any subclass belonging to either of your Classes.
+	If you strongly desire it, you can create a "monoclass" character with only one Class. This provides no benefit other than simplicity.
+
+LANGUAGES:
+	All characters can speak Common (the "lingua franca" of most settings), plus the language associated with their species (if different from Common).
+	Beyond that, a character's fluency in other languages is determined by their Language skill.
+
+CHARACTER ATTRIBUTES:
+	Your character's physical and mental attributes are represented by their Attributes.
+	Attributes can range from a minimum of +0 to a maximum of +5.
+	OSK uses the same classic six Attributes as countless other TTRPGs:
+	Strength (STR) - a character's physical might and power
+	Dexterity (DEX) - a character's agility, in terms of speed, nimbleness, and hand-eye coordination
+	Constitution (CON) - a character's physical endurance, their heartiness and ability to withstand pain and exert themselves
+	Intelligence (INT) - a character's raw reasoning ability, their mental horsepower, and their skills at deduction and logic
+	Wisdom (WIS) - a character's instincts, intuition, and ability to anticipate the results of future actions.
+	Charisma (CHA) - a character's presence, their ability to persuade, flirt, or deceive.
+
+CHARACTER SKILLS:
+	Skills represent your character's proficiency in broad categories of tasks.
+	Skill modifiers range from +3 to +15, based on the skill points you allocate toward them as you level up.
+	You cannot have a modifier higher than +6 before Level 4, and you cannot have one higher than +12 until Level 8.
+	For more information on Skills, see Chapter XX.
+
+ABILITIES:
+	Each ability is represented by a 3x5 card.
+	Characters start with 5 Designed Abilities based on the two Classes they've selected.
+	These abilities can be fighting maneuvers, magic spells, or other features that help them in or out of combat.
+	Players design these abilities based on the guidelines outlined in Chapter XX.
+	Every time a character levels up, you create up to 2 more Ability cards. A Level 10 character will have 23 total Abilities. 
+
+COMBAT MODIFIER / COMBAT SAVE DC:
+	These are modifiers that are used with Abilities during combat. They jointly represent your character's overall combat proficiency. 
+	Your Combat Modifier is any Attribute of your choice, plus your current Level.
+	You can choose which Attribute is the basis of your Combat Modifier during a Long Rest.
+	All abilities that involve Attack Rolls are resolved with this single Combat Modifier.
+	Your Combat Save DC is your Combat Modifier plus 7. 
+
+INVENTORY / STARTING GEAR:
+	Characters are not limited in what gear they can start with, so long as their choices are within reason.
+	A starting kit of mundane equipment can all be combined onto a single Equipment card.
+	OSK generally assumes that most martial (i.e. non-magic-using) characters start with both a hand-to-hand weapon and a ranged weapon of some kind - but this is ultimately up to the player.
+	OSK is not concerned with a character's inventory capacity, and by default there is no limit on the number of cards in a character's deck.
+	Inventory capacity can be narratively hand-waived in any number of ways. For example, assuming that each character starts with a Bag of Holding (a magical bag with an infinite carrying capacity).
+	A character's armor is already considered part of their team's shared AC (See Chapter XX). In other words: unless it is armor with special properties, your choice of armor is largely cosmetic.
+	A party's wealth should begin at the level that makes the most narrative sense.
+
+LEVELING UP:
+	Your character's Experience Level ranges from 1-10. This is tracked on your character sheet.
+	You gain levels in both of your character's classes simultaneously.
+	Your whole adventuring party levels up simultaneously.
+	At every Level after 1st, you may create 2 new Ability cards.
+	If the players and GM all agree, these cards may be created one at a time: one when you gain the Level, and the second later at an appropriate point. This can reduce the burden of designing and balancing multiple new Abilities at once.
+	Additionally, at every level after 1st, you gain Attribute Points, Skill Points, and Hit Points based on a chart (see below).
+	The GM determines the most appropriate time for a party to level up (typically based on story milestones).
+
+ATTRIBUTE / SKILL BUBBLES:
+	Your character sheet has bubbles that are used to show their current level of allocated points for each Attribute and Skill.
+	Bubbles are filled in from left to right; each new Attribute Point or Skill Point can be spent to fill in a bubble, which increases that Attribute/Skill's Modifier.
+
+LEVEL-UP CHART:
+	This chart shows how your character's stats and characteristics change as they level up:
+
+	Character	Combat		Combat		Total		Total		Hit		Armor
+	Level		Modifier	Save DC		Attribute Pts	Skill Pts	Points		Class
+	1		+6		13		11		14		26		14
+	2		+7		14		12		16		42		15
+	3		+8		15		13		18		58		16
+	4		+9		16		14		20		74		17
+	5		+10		17		15		22		90		18
+	6		+11		18		16		24		106		19
+	7		+12		19		17		26		122		20
+	8		+13		20		18		28		138		21
+	9		+14		21		19		30		154		22
+	10		+15		22		20		32		170		23
+
+
+
+

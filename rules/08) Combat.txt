@@ -1,0 +1,222 @@
+THE GRID:
+	OSK unambigiously assumes combat takes place on a gridded map.
+	Each square on the normally represents 5 feet.
+
+COMBATANTS AND TEAMS:
+	Combatants are divided into a Player Team and an Enemy Team.
+	The Player Team normally consists of the player characters and their allies.
+	The Enemy Team consists of hostile creatures controlled by the GM.
+	Some encounters may involve neutral creatures or additional teams at the GM's discretion.
+
+BEGINNING COMBAT:
+	Combat begins when the GM determines that actions must be resolved turn by turn.
+	Position all relevant combatants on the grid.
+	Both teams then roll Initiative (taking Surprise into account, if applicable).
+
+INITIATIVE:
+	One member of the Player Team rolls a d20 with no modifier. 
+	The GM rolls a d20 with no modifier for the Enemy Team.
+	The team with the higher result takes the first turn. If the results are tied, both teams reroll.
+	Initiative is rolled only once at the beginning of combat.
+	After Initiative is determined, play alternates between the two teams.
+	On each team's turn, that team chooses one combatant who has not yet acted during the current round.
+	That combatant immediately takes their turn.
+	Each combatant may take only one turn per round.
+	If one team has more combatants than the other, the larger team may take consecutive turns after every member of the smaller team has acted.
+	Once every combatant has taken a turn, the round ends and a new round begins.
+	The team that won Initiative takes the first turn of each new round.
+
+SURPRISE:
+	If one team catches the other off guard, the surprised team rolls Initiative with Disadvantage.
+	The GM determines whether Surprise applies based on the circumstances.
+
+ENDING COMBAT:
+	Combat ends when no hostile combatants remain willing or able to fight. 
+	Cards in the Cooldown Queue are returned to the Loadout.
+
+LOADOUT IN COMBAT:
+	During your turn combat, you can normally use only cards in your Loadout.
+	Your Loadout can contain up to 10 cards.
+	Your Species card is always available and does not count against this limit.
+	Cards in your Deck are carried by your character but are not immediately available.
+	Use the Reconfigure Action to exchange cards between your Loadout and Deck (see below).
+
+THREE ACTIONS PER TURN:
+	On your turn in combat, you can take up to three Actions.
+	There are seven types of Actions: Use Ability, Use Equipment, Use Consumable, Movement, Reconfigure, First Aid, and Wildcard.
+	You can take actions in any order.
+	You cannot take any one action type more than twice on a single turn.
+	You can only add one card to the Cooldown Queue per turn, unless you play a Combo card.
+	A card with the Combo trait lets you play it into Cooldown Slot 1 on the same turn as another card.
+	You may choose to take fewer than three Actions; however, unused Actions are lost at the end of your turn unless you Hold one of them.
+
+[ACTION TYPE] USE ABILITY:
+	Use this Action to activate an Ability card in your Loadout.
+	An Ability may involve an Attack Roll, Saving Throw, damage, movement, healing, or another effect.
+	Most Abilities enter the Cooldown Queue after use.
+	Only one card may enter the Cooldown Queue during your turn (unless a Combo card is used).
+
+[ACTION TYPE] USE EQUIPMENT:
+	Use this Action to activate an Equipment card in your Loadout.
+	Some Equipment enters the Cooldown Queue after use.
+	Passive Equipment functions automatically while it remains in your Loadout; it does not require an Action.
+	For more information on Equipment, see Chapter XX.
+
+[ACTION TYPE] USE CONSUMABLE:
+	Use this Action to activate a Consumable card in your Loadout.
+	Consumables include potions, scrolls, special ammunition, special foods, and similar single-use items.
+	After a Consumable is used, remove it from your Deck.
+	Consumables do not normally enter the Cooldown Queue unless the card states otherwise.
+
+[ACTION TYPE] MOVEMENT:
+	Use this Action to move up to your Movement value in squares. Movement may be orthogonal, diagonal, or a combination of both.
+	Most characters have a default Movement value of 6 (i.e. 30ft).
+	You may split your movement before and after other Actions taken during the same turn.
+	If you take the Movement Action twice, each Action grants up to your full Movement value.
+	You may move through a willing ally's square, but cannot end your movement there. You cannot normally move through an enemy's square.
+	Swimming and climbing are (by default) at half speed (i.e. 3 squares per Movement action).
+	A Species trait, Ability, or Equipment card may allow you to swim or climb at full speed.
+	The Game Master may call for a Check when swimming or climbing is especially difficult.
+	Flying: A character cannot normally fly without an appropriate Species trait, Ability, or Equipment.
+	
+[ACTION TYPE] RECONFIGURE:
+	Use this Action to exchange any number of cards between your Loadout and Deck - AFTER your current turn ends.
+	The new Loadout becomes active at the start of your following turn.
+	Cards currently in the Cooldown Queue cannot be moved into your Deck.
+	Your Loadout cannot exceed 10 cards after Reconfiguration.
+
+[ACTION TYPE] FIRST AID:
+	This action allows you to restore HP to yourself or to an adjacent combatant.
+	Make a Medicine check, and add the amount rolled to to target's current HP. The target then spends one Recovery Point.
+	A character without Recovery Points cannot regain HP through First Aid.
+	A dying character can be stabilized even if they do not have any available Recovery Points (see Chapter XX). 
+
+[ACTION TYPE] WILDCARD:
+	Use this Action to attempt to do almost anything that makes sense in the current situation, within reason.
+	Describe what your character is trying to accomplish.
+	The GM determines whether the attempt is possible and how it is resolved.
+	Wildcards actions are commonly resolved using standard Checks, contested Checks, and/or improvised damage. Resolution is at the GM's discretion.
+	Wildcards encourage creative interaction with enemies, objects, terrain, and the environment.
+
+WILDCARD LIMITATIONS
+	You cannot use your Wildcard to duplicate any other Action type.
+	You cannot use your Wildcard to simply cause more damage (it is not an "extra attack").
+	Wildcards can involve whatever weapons you are currently wielding.
+	Wildcards generally involve little-to-no magic or supernatural abilities.
+	Particularly creative or dramatic Wildcards may be granted Advantage by the GM.
+	Conversely, Wildcards used in abusive or repetitive ways may incur Disadvantage.
+	The GM has final authority over Wildcard outcomes.
+
+EXAMPLE WILDCARD ACTIONS:
+	Hide, or duck behind nearby cover.
+	Trip, shove, grapple, or disarm an enemy.
+	Distract, insult, frighten, or deceive an opponent.
+	Throw sand into an enemy's eyes.
+	Overturn a table to create cover.
+	Use a nearby object as an improvised weapon.
+	Shoot down a hanging chandelier.
+	Rally an ally with words of encouragement.
+	Start, spread, or extinguish a fire.
+
+HOLD & TRIGGER:
+	You can choose to Hold one action on your turn, to wait for a specified Trigger before activating.
+	You specify the held action's Trigger when you choose to hold it.
+	If the Trigger occurs before the beginning of your next turn, you may immediately take the held Action.
+	The held action can be an action of any type. 
+	You may choose not to activate the held Action when the Trigger occurs.
+	If the Trigger does not occur before your next turn begins, the held Action is lost.
+	A held Action cannot be changed after your turn ends.
+
+BETWEEN-TURN EFFECTS:
+	OSK does not use predefined between-turn effects (often known as "Reactions").
+	Characters generally do not interrupt another combatant's turn unless they have Held an action.
+	However, Abilities and Equipment may create specific effects that occur between turns.
+
+THE COOLDOWN QUEUE:
+	The Cooldown Queue represents the time or effort required before certain Abilities or Equipment can be used again.
+	The Queue contains two Cooldown Slots. Cards enter the Queue through Cooldown Slot 1.
+	When a new card enters Slot 1, any cards already in the Queue advance to the next Slot.
+	A card moved beyond Cooldown Slot 2 returns to your Loadout.
+	Any cards in the Cooldown Queue cannot be moved into your Deck by the Reconfigure action.
+	Certain cards may have effects that remain activated so long as the card is in the Queue. When the card leaves the Queue, any sustained effect ends unless the card states otherwise.
+
+COMBO CARDS:
+	Normally, only one card may enter the Cooldown Queue during your turn.
+	This limit applies across Ability and Equipment cards.
+	However, a Combo card is an Ability or Equipment card designed to be used alongside another card.
+	A Combo card may enter Cooldown Slot 1 during the same turn as one other card.
+	Place the Combo card above or below the other card in Slot 1.
+	The card on top advances through and leaves the Queue before the card beneath it.
+	The player chooses the order unless one of the cards specifies otherwise.
+	A Combo card still requires its normal Action unless the card states otherwise.
+	Only one Combo card may bypass the normal Cooldown limit during a turn.
+
+HIGH-LEVEL ABILITIES:
+	Abilities acquired at levels 9 and 10 are special abilities that do not require cooldown.
+	Rather, these abilities are "once per day" abilities that regain usability after a Long Rest.
+	This is because these abilities are exceptionally powerful, and generally require more exertion from the character to employ.
+
+ARMOR CLASS:
+	Each team has one shared Armor Class. This represents armor, agility, defensive skill, luck, and the general difficulty of inflicting a decisive blow.
+	The Player Team's Armor Class is equal to the party's current Level plus 13 (i.e. ranging from 14-23).
+	The GM assigns the Enemy Team an Armor Class appropriate to the encounter. Enemy Armor Class generally ranges from 10 to 25.
+
+ATTACK ROLLS:
+	When an Ability calls for an Attack Roll, roll a d20 and add your Combat Modifier. Compare the result to the opposing team's Armor Class.
+	The Ability card describes its "Over-AC" and "Under-AC" results.
+
+OVER-AC / UNDER-AC:
+	If an Attack Roll meets or exceeds the target team's Armor Class, use the Ability's Over-AC result.
+	If the Attack Roll is lower than the target team's Armor Class, use the Ability's Under-AC result. 
+	An Under-AC result does not typically represent a complete miss. It may represent a glancing blow, partial success, reduced damage, or a resisted effect.
+	However, a Critical Miss overrides the normal Under-AC result.
+
+OFFENSIVING SAVING THROWS:
+	Instead of Attack Rolls, some abilities call for enemy targets to make Saving Throws. Compare the result(s) to the attacker's Combat Save DC.
+	The target rolls a d20 and adds the specified Attribute.
+	The Ability card describes its "Enemy Fails Throw" and "Enemy Succeeds Throw" results.
+	For the general rules for Saving Throws and Critical Successes or Failures, see Chapter XX.
+
+CRITICAL HITS:
+	Rolling a Natural 20 on an Attack Roll is a Critical Hit. On a Critical Hit, calculate the total damage inflicted by the attack as you normally would - then double that result. 
+	Secondary effects are not typically doubled.
+
+CRITICAL MISSES:
+	Rolling a natural 1 on an Attack Roll is a Critical Miss. On a Critical Miss, the Ability or Equipment has no effect.
+	The card still enters the Cooldown Queue if it normally requires Cooldown.
+	A Critical Miss does not end the rest of your turn.
+
+LINE OF SIGHT / COVER:
+	You must normally be able to see a target to directly target it.
+	Solid walls and similar barriers block Line of Sight.
+	Smoke, darkness, concealment, and other conditions may impose Disadvantage or prevent targeting.
+	A combatant has Cover when a substantial object blocks part of their body.
+	Partial Cover normally imposes Disadvantage on Attack Rolls against that combatant.
+	Total Cover prevents direct targeting.
+	The Game Master determines whether Line of Sight is clear, or if Cover applies based on the combatants' positions.
+
+ATTACKS OF OPPORTUNITY:
+	OSK does not use Attacks of Opportunity (this is a term for striking an opponent that moves away from you without disengaging first).
+	Moving away from an enemy does not normally trigger an attack, and there is no "Disengage" Action.
+	Specific Abilities may restrict movement or punish enemies who move away.
+
+FLANKING:
+	A combatant is Flanked when two enemies occupy directly opposite adjacent squares around them. The two attackers may be positioned orthogonally or diagonally.
+	Melee Attack Rolls against a Flanked combatant have Advantage.
+
+IMPROVISED DAMAGE:
+	Certain situations may require the GM to improvise damage amounts.
+	This improvisational damage generally ranges from 1d6 to 10d6, but the GM may allow for even more d6 if the situation calls for it.
+
+TERRAIN:
+	Battlemaps may contain certain areas of "Difficult Terrain", such as sheets of ice, patches of sharp brambles, or quicksand.
+	This type of terrain costs twice as much movement to pass through.
+	For example, if a character normally has a Movement value of 6 squares per turn, they may only be able to move 3 squares per turn through Difficult Terrain.
+
+DYING:
+	When a player's character reaches 0 HP, they fall unconscious and are considered dying.
+	An unconscious character cannot take Actions, and must make a Death Saving Throw at the end of EACH player's turn.
+	For information on Death and Death Saving Throws, see Chapter XX. 
+
+
+

@@ -1,0 +1,199 @@
+
+
+
+
+WHAT DO I NEED TO PLAY?
+	Like in most pen-and-paper TTRPGs, characters are represented primarily by their character sheet. 
+	The character sheet records your character's stats, such as Attributes (STR/DEX/CON/INT/WIS/CHA), Skills, health (Hit Points), and other essential information.
+	However, all character abilities (such as species traits, fighting maneuvers, and spells) are all represented on 3x5 notecards, created by the player.
+
+WHAT TYPES OF DICE DOES OSK USE?
+	OSK uses: a d20, ten d6, and a d100 (typically represented by a d10 and a percentile die)
+	OSK DOES NOT use: d4s, d8s, or d12s
+
+TIMEOUT:
+	At any point during the game, any player (including the GM) can call a Timeout.
+	During a Timeout, gameplay immediately pauses, and all players break character and discuss the situation out of game.
+	Timeouts can be used to ask questions and get clarifications as necessary.
+	Timeouts can also be used if a situation in the game is making a player feel uncomfortable out of game.
+	When the issue or question has been resolved to everyone's satisfaction, gameplay resumes as usual.
+
+CHARACTER SHEET AND CARDS:
+	The sheet represents most of the characteristics that make up your character.
+	Several areas of the sheet have circular pips that represent things like Experience, Attriubtes, Recovery Points, etc. These pips are always bubbled in from left-to-right.
+	Your character's species, abilities, equipment, and supplies are represented by a deck of 3x5 notecards that you create as you build your character.
+	You create additional cards as your character adventures and gains experience and new equipment.
+
+CARD TYPES:
+	There are four types of cards in OSK.
+	Species - a card that represents the traits of your character's species.
+	Abilities - a card that represents a character's combat maneuver, spell, or other feature.
+	Equipment - a card that represents a piece of equipment, such as a special weapon or tool.
+	Consumable - a single-use card, such as a potion. It is removed from your deck after it is used.
+	It is recommended that you assign a color for each type of card.
+	OSK's default coloring is: Species/Red, Ability/Blue, Equipment/Green, Consumable/Purple.
+
+DECK & LOADOUT:
+	Your "Deck" is all of the 3x5 cards your character has available to them. 
+	There is no limit on the number of cards you can have in your deck.
+	Your "Loadout" is a subset of 10 cards that your character has access to on your turn in combat.
+	Note: Your character's Species card is always available to you, but it DOES NOT count against your Loadout's 10-card limit.
+	The purpose of the Loadout is to prevent excessive cognitive load on players.
+	Outside of combat, you can swap cards between your Deck and Loadout at will, as often as you want.
+	To swap cards between your Deck and Loadout after combat has begun, you must take the Reconfigure action (see Chapter XX).
+
+HIT POINTS:
+	Your character's Hit Points (HP) represent how far they are from death.
+	As your character takes wounds and sustains injuries their HP decreases.
+	However, HP does not necessarily represent only wounds - it can also represent the stamina a character has left to avoid fatal blows.
+	HP can be regained via the application of first aid, medicine, potions, healing spells, etc.
+	Once your character's HP reaches 0, they fall unconscious and must begin making Death Saving Throws.
+
+DEATH / DEATH SAVING THROWS:
+	To make a Death Saving Throw, simply roll a d20 and add nothing. If the roll is 10 or greater, mark one success. If the roll is 9 or less, mark one failure.
+	During combat, a dying character must make a Death Saving Throw after EVERY time a Player Team turn concludes.
+	If a character takes damage while they are dying, they automatically fail one additional death save.
+	If your character succeeds on 3 Death Saving Throws, they "stabilize" and regain 1 HP (this does not cost Recovery Points, and a character can stabilize even if they are out of Recovery Points).
+	If your character fails 3 Death Saving Throws, they die.
+	Depending on the circumstances of your game and campaign, you may be able to resurrect them.
+	If resurrection is not possible, it's time to create a new character!
+
+TEMPORARY HIT POINTS:
+	Temporary HP represents a short-lived buffer against damage.
+	Taking damage reduces your Temporary HP before reducing your normal HP.
+	Temporary HP cannot be restored through healing.
+	Multiple effects that grant Temporary HP can be stacked, but you cannot stack the same effect multiple times. 
+	Temporary HP usually disappears after a Long Rest, or when the effect granting it ends.
+
+RECOVERY POINTS:
+	Your character can regain lost HP by application of first aid, medicines, potions, healing spells, etc.
+	Every character is capable of healing themselves and others, by using First Aid: make a Medicine check and using the result as the amount of HP restored.
+	Every time your character regains any amount of HP, you mark one Recovery Point off your character sheet.
+	Every character has 10 Recovery Points. When these are exhausted, your character can no longer regain HP until they rest.
+	However, a character without any Recovery Points can still be stabilized (brought up to 1 HP) if they are dying.
+	Certain rare consumables can allow characters to regain Recovery Points between rests.
+	Resting restores all 10 of a character's Recovery Points.
+
+RESTING:
+	A Long Rest (also called a "Respite" or simply a "Rest") is an 8-12 hour period where your character does little more than sleep.
+	Resting restores all of a character's HP, as well as all of their ecovery Points. It also removes the "Fatigued" condition.
+	Note: There are no "short rests" - resting requires a minimum of 8 hours for most characters.
+
+DAMAGE TYPES:
+	Damage from abilities/equipment/etc is categorized by type:
+	Physical	Slashing, piercing, or bludgeoning damage
+	Acid		Damage from corrosive liquids
+	Cold		Ice and frost effects, hypothermia
+	Fire		Damage from heat, combustion, and certain types of explosions
+	Lightning	Electricity-based damage, whether natural or artificial
+	Necrotic	Sapping a creature's life force, causing decay
+	Poison		Venomous stings and toxic gases
+	Psychic		Psionic attacks, psychological manipulation, or extreme exertions of willpower
+	Radiant		Damage inflicted by holy energy or divine light
+	Sonic		Damage from concussive blasts and loud sounds
+
+DAMAGE VULNERABILITY / RESISTANCE / IMMUNITY:
+	Some creatures take greater or lesser amounts of damage from attacks, based on the damage type.
+	Vulnerability - A creature takes double damage of the specified type
+	Resistance - A creature takes half damage of the specified type
+	Immunity - A creature takes no damage of the specified type
+
+FALL DAMAGE:
+	A creature in an uncontrolled fall takes 1d6 of Physical damage for every 10ft they fall, upon impact.
+
+SKILL CHECKS:
+	Often, the GM will call for a Skill Check to determine how your character performs at a given task.
+	These are typically resolved by rolling a d20, and adding your modifier for that skill.
+	The total of this roll is compared to a "Difficulty Class".
+	The Difficulty Class is a number determined by the GM that corresponds with the difficulty of the task your character is attempting.
+
+ADVANTAGE & DISADVANTAGE:
+	Sometimes, a particularly beneficial situation will grant advantage on a check or attack.
+	To roll with advantage, roll two d20s and use the higher of the two when adding your modifier.
+	Conversely, a negative effect or especially challenging situation will inflict disadvantage on a check.
+	To roll with disadvantage, roll two d20s and use the lower of the two.
+
+STACKING ADVANTAGE / DISADVANTAGE:
+	If more than one beneficial circumstances converge to influence a check, you roll with double-advantage.
+	For double-advantage, roll three d20s and take the highest.
+	Conversely, with multiple problematic circumstances, you roll with double-disadvantage (roll three d20s and take the lowest).
+	Advantage and disadvantage cancel each other out, one step at a time. 
+	For example, if a situation that normally grants double-advantage occurs simultaneously with a situation that grants disadvantage, roll with normal advantage.
+
+CRITICAL SUCCESSES AND FAILURES:
+	Rolling a natural 20 on a d20 is a Critical Success: A Critical Success should produce an especially favorable result, whether narratively, mechanically, or both.
+	Rolling a natural 1 on a d20 is a Critical Failure.: A Critical Failure should produce an especially unfavorable result, but does not automatically cause an extreme disaster.
+	A Critical Success cannot make a truly impossible action possible.
+	For details about how Critical Successes and Failures are applied in combat, see Chapter XX. 
+
+DIFFICULTY CLASSES:
+	This is a number set by the GM during a check, to determine how difficult it is for the check to succeed.
+	The lower the number, the simpler the task is to succeed at. The higher the number, the more difficult.
+	Example: DC 10 for climbing a rough wall, DC 25 for climbing a sheer, ice-covered cliff.
+	DCs generally should not exceed 30 (however, the GM may choose to ignore this if appropriate).
+	If a task is absolutely impossible by any means, no check should be called for at all.
+
+SAVING THROWS:
+	Sometimes, a check must be made to avoid a dangerous obstacle, a trap, or certain kinds of attacks.
+	These are called Saving Throws, and are simply a d20 roll plus one of your character's Attributes (STR/DEX/CON/INT/WIS/CHA).
+	Rolling a natural 20 on a Saving Throw means you avoid all damage and effects.
+	Rolling a natural 1 on a Saving Throw is automatically a failure, even if an added modifier would normally make it a success.
+
+CONTESTED CHECKS:
+	When two characters directly oppose each other, both make an appropriate Check. The character with the higher result succeeds.
+	If the results are tied, both characters must roll again and use the new roll.
+	Advantage, Disadvantage, and other modifiers apply normally.
+	Contested checks are one of the most common ways to resolve Wildcard actions (see Chapter XX).
+
+INSPIRATION:
+	If a player is especially clever, the GM may reward them with a Point of Inspiration.
+	Examples of this type of cleverness include: skilled role-playing, ingenious solutions to puzzles of problems, exceptionally hilarious moments, or brilliant observations or deductions.
+	Mark this Point of Inspiration on your character sheet.
+	You can have up to 5 Points of Inspiration at any given time.
+	Points of Inspiration can be spent to re-roll a failed Check or Attack Roll.
+
+CONDITIONS:
+	Conditions are temporary states that alter how a character can act, move, or resolve certain rolls. 
+	A Condition remains in effect until its stated duration ends or its requirements for removal are met.
+	By default, there are three Conditions: Exhausted, Prone, and Restrained. 
+
+[CONDITION] EXHAUSTED:
+	Exhaustion may be inflicted by prolonged physical exertion, sleep deprivation, extreme environmental conditions, or other circumstances that leave a character physically exhausted.
+	An Exhausted character has Disadvantage on checks involving strenuous physical activity.
+	A Long Rest removes the Exhausted condition.
+
+[CONDITION] PRONE:
+	If a combatant is on the ground, willingly or unwillingly, it has the "Prone" condition.
+	A prone combatant can stand back up either by using an action, or by sacrificing half of their total number of squares of movement for that turn (rounded up).
+	A prone character can crawl along the ground at half the rate of their normal Movement. 
+	Melee attack rolls against a prone combatant may be granted Advantage.
+
+[CONDITION] RESTRAINED:
+	Certain moves, such as grappling an opponent, inflict the "Restrained" condition.
+	A restrained creature’s speed becomes 0, and it can't benefit from any bonus to its speed.
+	Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+	The creature has disadvantage on Dexterity saving throws.
+
+WEALTH:
+	Your character's Wealth Level ranges from 1-10. (This takes the place of tracking individual currencies and coin counts.)
+	The Game Master determines whether a purchase is reasonable for your Wealth Level.
+	Unusually expensive purchases may reduce your Wealth Level.
+	Wealth Level  1: Destitute. You struggle to afford basic necessities.
+	Wealth Level  2: Poor. You can survive, but money is a constant concern.
+	Wealth Level  3: Modest. You can afford ordinary necessities and minor comforts.
+	Wealth Level  4: Comfortable. Routine expenses and common equipment are easily affordable.
+	Wealth Level  5: Prosperous. You can afford quality goods, travel, and regular luxuries.
+	Wealth Level  6: Wealthy. You have substantial resources, property, or income.
+	Wealth Level  7: Very Wealthy. You can fund expeditions, employees, and major purchases.
+	Wealth Level  8: Exceptionally Wealthy. You command resources comparable to nobles or major institutions.
+	Wealth Level  9: Vast Fortune. You can finance armies, governments, or enormous projects.
+	Wealth Level 10: Extreme Affluence. Only uniquely rare or world-changing purchases are beyond your reach.
+
+EXPERIENCE:
+	All player characters gain Levels at the same time.
+	The GM awards a new Level when the group reaches an appropriate story milestone.
+	For the mechanical effects and implications of gaining a Level, see Chapter XX. 
+
+
+
+

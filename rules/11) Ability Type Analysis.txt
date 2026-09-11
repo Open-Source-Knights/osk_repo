@@ -1,0 +1,162 @@
+ABOUT ABILITY TYPES:
+	TTRPG designers and players have been inventing character abilities since the earliest days of the hobby in the 1970s.
+	Human creativity has always been one of the driving forces behind tabletop roleplaying games, and new mechanical ideas continue to appear constantly.
+	For that reason, it would be impossible to create a truly exhaustive list of every possible type of Ability.
+	The categories in this chapter instead cover common Ability types and recurring design problems that are especially useful to consider when creating OSK cards.
+	The purpose of these categories is not to restrict creativity, but rather to identify common design problems and suggest simple solutions.
+
+TYPES OF ABILITIES TO AVOID:
+	OSK explicitly discourages Abilities that trivialize large categories of challenges.
+	Examples include unrestricted global teleportation, automatic solutions to mysteries, permanent immunity to common hazards, or effects capable of rewriting reality at will.
+	D&D's Wish spell is arguably the most extreme example of these types of problematic abilities.
+	Effects of this scale are generally better treated as artifacts, unique Equipment, story rewards, or GM-controlled phenomena rather than ordinary Designed Abilities.
+	Whether such effects should exist at all is ultimately the decision of the GM and the group, collectively. 
+	OSK also discourages Abilities that employ sustained mind-control effects without the target's consent. This is for two reasons:
+	First, these types of abilities can create situations that many players find ethically dubious, even within the context of the game. They may cause certain players a great deal of discomfort at the table.
+	Second, if these types of abilities are turned on the players themselves, those players may chafe at the loss of agency over their character.
+	Avoid designing Abilities that modify core game rules in fundamental ways.
+	Avoid designing Abilities that modify Wealth, Level, or Character Stats. 
+	Avoid designing Abilities that significantly slow down play.
+	Avoid designing Abilities that require long calculations, repeated rerolls, large amounts of tracking, or recalculation of statistics.
+	Avoid designing Abilities whose effects are substantially broader than their Source Ability without gaining meaningful new limitations.
+	Avoid designing Abilities primarily to exploit a technical loophole rather than create an interesting game option.
+
+HYBRID ABILITIES:
+	Many Abilities can fit into more than one category.
+	For example, an Ability may deal Damage while also inflicting a Debuff, or Transform the user while granting Passive effects.
+	When an Ability combines multiple functions, consider the balance implications of all of them together.
+	An Ability that performs several functions should generally perform each individual function less strongly than a specialized Ability.
+	Do not judge only the Ability's most obvious effect when balancing it - consider it as a complete package.
+
+[ABILITY TYPE] DAMAGE:
+	Damage Abilities are the simplest and most basic type of combat Ability. Their primary purpose is reducing enemy HP.
+	Use the Damage Tier system described in the previous chapter.
+	A damage Ability with few secondary benefits may use a high Damage Tier. As range, area of effect, number of targets, reliability, buffs, debuffs, conditions, or other riders increase, Damage Tier should generally decrease.
+	Tier 5 should usually be reserved for Abilities whose primary advantage is simply dealing large amounts of damage.
+	An Ability may deal different Damage Tiers depending on its result. For example: Over-AC = Tier 5 Physical damage / Under-AC = Tier 3 Physical damage.
+	High-risk Abilities may use a much greater difference between successful and unsuccessful results.
+	Damage Type usually has relatively little effect on an Ability's raw power unless vulnerabilities, resistances, or immunities make that type particularly significant in that combat.
+	Do not add unnecessary secondary effects merely because there is room on the card.
+
+[ABILITY TYPE] HEALING:
+	Healing restores lost HP. Any time a character regains any amount of HP, they mark off one Recovery Point. 
+	Healing Abilities should not bypass this requirement.
+	Healing Abilities should often - though not necessarily always - base the amount healed on the Damage Tier chart. However healing Abilities should rarely - if ever - use the highest Damage Tiers for healing.
+	Balance consideration: Healing several allies at once should generally restore less HP to each individual target than a single-target heal.
+	Balance consideration: Long-range healing is more useful than adjacent healing and should be balanced accordingly by healing at a lower Damage Tier.
+	Balance consideration: Healing Abilities that also remove conditions, grant Temporary HP, provide movement, or create another benefit should also generally heal less.
+
+[ABILITY TYPE] BUFF / DEBUFF:
+	Buffs improve an ally's capabilities. Debuffs hinder an enemy's capabilities.
+	Common Buffs include granting Advantage, extra Movement, Temporary HP, protection from a Damage Type, or improvements to a specific kind of Action.
+	Common Debuffs include causing Disadvantage, reduced Movement, or forced movement.
+	Strong Buffs and Debuffs should usually have limited Duration. An effect that lasts while its card remains in the Cooldown Queue is often an appropriate default.
+	Effects that substantially restrict an enemy's Actions or Movement should generally deal little or no damage.
+	Effects that completely prevent an enemy from acting (such as paralysis) are extremely powerful and should require significant limitations.
+	Debuffs should normally allow some meaningful method of resolution for the target, such as an Attack Roll, Saving Throw, limited Duration, or specific circumstance.
+
+[ABILITY TYPE] MOVEMENT:
+	Movement Abilities change a character's position beyond ordinary Movement Actions.
+	Examples include dashes, leaps, teleportation, charges, grappling hooks, short flights, burrowing, or magical repositioning.
+	Movement that merely relocates the user a short distance may require little or no tradeoffs. Movement that ignores enemies, walls, terrain, elevation, or other obstacles is significantly more powerful.
+	Abilities such as teleportation should have a clearly defined maximum Range.
+
+[ABILITY TYPE] PASSIVE ABILITIES:
+	Passive Abilities function continuously while their cards remain in the character's Loadout. They do not normally require an Action, nor do they enter the Cooldown Queue. And their effects cease immediately when they leave the Loadout.
+	Because Passive Abilities require no Action and can function repeatedly, they should generally be weaker than comparable activated Abilities.
+	Passives are well suited for narrow bonuses, situational benefits, unusual movement options, minor defenses, or modifications to specific types of Abilities.
+	Avoid Passives that provide broad Advantage on large categories of rolls.
+	Avoid Passive effects that substantially increase damage on nearly every attack.
+	Avoid Passive Abilities that make another card strictly superior with no meaningful opportunity cost.
+	The Loadout slot itself is part of a Passive Ability's cost, but this alone does not justify an exceptionally strong permanent benefit.
+
+[ABILITY TYPE] HP INCREASE:
+	Some Abilities may increase a character's maximum HP.
+	Maximum HP increases should be considered carefully because they provide a constant defensive benefit without requiring an Action.
+	A single Ability should generally increase maximum HP by no more than approximately 10-25% of the character's normal maximum HP.
+	A character's total maximum HP from Ability and Equipment bonuses should generally not exceed approximately 50% above their normal baseline.
+	The exact limits may be adjusted by the GM depending on campaign balance.
+	HP increases should normally use either a fixed amount determined by Level or a simple percentage. Avoid effects that repeatedly recalculate HP based on changing Attributes or temporary effects.
+	If special armor, shields, or magical protection are intended to increase survivability, it should increase HP. Abilities SHOULD NOT attempt to modify the team's AC.
+
+[ABILITY TYPE] UTILITY / NON-COMBAT:
+	Utility Abilities solve problems without primarily dealing damage.
+	Examples include magical manipulation, creating light, communicating at unusual distances, disguising appearances, manipulating objects, detecting supernatural effects, or interacting with the environment.
+	Minor utility effects may not require Cooldown if their consequences are small. Examples include effects similar in scope to D&D spells such as Mage Hand, Prestidigitation, Druidcraft, or Thaumaturgy.
+	Broad utility should still have meaningful boundaries.
+	An Ability may allow you to manipulate a distant object without allowing unlimited telekinesis.
+	An Ability may detect magical influence without automatically explaining exactly what every magical object does.
+	Utility Abilities should create additional options rather than automatically bypassing entire categories of obstacles.
+	The GM may still call for a Check when the outcome remains uncertain despite the Ability.
+
+[ABILITY TYPE] DEFENSIVE / PROTECTIVE:
+	Defensive Abilities reduce, redirect, avoid, or absorb incoming harm.
+	In OSK, these abilities DO NOT modify the team's shared Armor Class.
+	Instead, defensive effects should use mechanics such as temporary HP, resistance, advantage or disadvantage, damage reduction, or protection against specific effects.
+	A defensive Ability that completely negates an attack should usually require a meaningful cost, limitation, or trigger, as well as cooldown.
+	Broad resistance to many damage types is substantially stronger than resistance to one narrow type.
+	Defensive Abilities should not make a character functionally untouchable for extended periods. Never grant permanent or long-lasting immunity to common damage types.
+
+[ABILITY TYPE] CONTROL:
+	Control Abilities manipulate positioning, actions, movement, or battlefield access.
+	Examples include creating barriers, blocking terrain, or preventing movement.
+	Control often has greater tactical value than raw damage. Strong control effects should therefore deal little or no damage.
+	Do not employ effects that completely remove a target's ability to participate in combat. Use temporary or conditional control, rather than indefinite effects.
+	Terrain created by an Ability should use simple shapes and clearly state how long it lasts. Avoid creating large numbers of persistent battlefield objects that require extensive tracking.
+
+[ABILITY TYPE] TRANSFORMATIONS:
+	Transformation Abilities allow a character to assume another form or state.
+	Examples include shapeshifting into an animal, lycanthropic transformations, magical battle forms, powered armor modes, or other supernatural metamorphosis.
+	Transformations should not replace the character with an entirely separate character sheet. Instead, preserve the character's existing statistics and modify only a few important characteristics.
+	A transformation may grant: additional HP or temporary HP, different Movement, new attack options, passive benefits, or damage resistance.
+	Transformations must be designed carefully because they can potentially provide numerous benefits simultaneously. The more benefits a transformation grants, the greater its limitations should be.
+	Possible limitations include: cooldown, once-per-Rest use, spending a Recovery Point, limited duration, restrictions on which existing cards can be used, self-damage, or reduced utility outside the transformation's intended role.
+	Transformations must also fit the fantasy of your character. A character who otherwise has no magical powers should (generally) not sudden gain the ability to shapeshift into animals. 
+	As with all Abilities, transformations must be designed in good faith. Do not use them to create permanent go-to solutions for a wide range of common problems. 
+
+[ABILITY TYPE] SUMMONING:
+	Summoning Abilities create or call another creature, construct, spirit, familiar, companion, or similar entity.
+	Summons are potentially powerful because they can add additional Abilities, bodies, HP, positioning, and tactical options. For this reason, summoned creatures should be kept mechanically simple.
+	A summon should generally not use a full player-character ruleset. Whenever possible, summarize the summon on the Ability card itself or on one additional reference card.
+	A summon may have: a simple HP value, Movement, and a small number of special actions or traits.
+	A summon should always act on the summoner's turn, rather than receiving an entirely separate place in Initiative.
+	Commanding the summon be done by using the summoner's Actions; summons should NOT have access to their own, separate Actions. 
+	A summoner should generally not maintain several independent summoned creatures simultaneously.
+	Large groups of minor creatures should usually be represented as a single swarm or unit rather than many separate combatants.
+	A summon should disappear when its duration ends, when the summoner reaches 0 HP, when the summon itself reaches 0 HP, or when another stated condition occurs.
+
+[ABILITY TYPE] INFORMATION / DIVINATION:
+	Information-gathering or Divination Abilities reveal facts or clues that would otherwise be hidden.
+	Examples include detecting magic, sensing creatures, reading omens, locating objects, supernatural investigation, or communicating with distant entities.
+	Information is often more powerful than it initially appears because it can bypass exploration, investigation, mystery, or social challenges.
+	Information Abilities should generally answer narrow questions rather than provide complete explanations.
+	Do not design Abilities that automatically reveal everything necessary to solve a mystery or avoid every ambush. The stronger and more reliable the information, the narrower its scope should generally be.
+
+[ABILITY TYPE] RESURRECTION:
+	Resurrection returns a dead character to life.
+	This is one of the most powerful effects available in most fantasy TTRPGs. Resurrection should therefore carry substantial limitations.
+	Possible limitations include: requiring the healer to spend their own Recovery Points, a difficult ritual, expensive or unusual materials, a permanent consequence, a difficult Check, or a major story requirement.
+	Limitations on frequency of usage are also highly reasonable. For some groups and campaigns, once-per-long-rest may be appropriate; for others, once-per-week, once-per-year, or once-per-decade or more may make more sense.
+	Effects that merely stabilize a dying character are not resurrection, and should be considerably easier to access (typically through standard Medicine checks).
+	Resurrection abilities are sufficiently powerful that they should not be combined with any other effects, such as healing other allies or damaging enemies simultaneously. 
+	Resurrection should generally not become a routine combat healing option. Resurrection during combat should be extremely rare, and the tradeoffs should be extremely costly. 
+	Low-Level Designed Abilities should not normally provide unrestricted resurrection, though they may provide resurrection in specific, narrowly-scoped situations.
+	Remember: a game where permanent death is never really on the table is a game where the threat of failure loses much of its dramatic tension because the consequences no longer feel permanent or meaningful.
+	Ultimately, the availability and narrative consequences of resurrection should match the tone of the campaign in accordance with the collective wishes of the GM and the group.
+
+[ABILITY TYPE] NOVA:
+	Nova Abilities are exceptional Abilities gained at Levels 9 and 10.
+	Nova Abilities are intentionally dramatic and may break rules that normal Designed Abilities should respect. They do not use the ordinary Damage Tier structure.
+	Examples may include enormous attacks, battlefield-wide effects, extreme transformations, mass healing, devastating control, or other character-defining powers.
+	Nova does not mean unlimited. A Nova Ability should have clearly defined mechanics and should still resolve quickly. They should still be resolved within the scope of a single Action.
+	By default, Nova Abilities may be used once per Long Rest. However, as with Resurrection Abilities, longer frequency-of-usage limitations may be warranted. 
+	Some Nova Abilities may require additional costs or limitations if their effects are especially broad.
+	Nova Abilities may: bypass the ordinary pattern used in Damage Tiers, affect unusually large areas, target many creatures, create unusually powerful Buffs or Debuffs, create dramatic transformations, or prevent catastrophic harm.
+	Even Nova Abilities should generally avoid permanently solving every future problem of a particular type.
+	A Nova should feel like an extraordinary moment, not a permanent and instantaneous rewrite to a major campaign challenge.
+
+
+
+
+
+

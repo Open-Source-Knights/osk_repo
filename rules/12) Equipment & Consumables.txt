@@ -1,0 +1,94 @@
+EQUIPMENT:
+	Equipment cards represent reusable gear, such as special weapons, armor, and other tools.
+	Only unusual, specialized, or mechanically important items require their own Equipment card.
+	Mundane clothing, weapons, tools, and supplies can usually be either grouped together on a single Equipment card, or simply written down as un-carded equipment.
+	Some Equipment cards are activated similarly to Ability cards, by taking the Use Equipment action.
+	Activating Equipment in combat may involve an Attack Roll, Saving Throw, Check, movement, damage, or another effect.
+
+EQUIPMENT IN YOUR LOADOUT:
+	An Equipment card usually must be in your Loadout for you to benefit from it during combat.
+	Equipment in your Deck is carried by your character, but is not immediately available for use.
+	Equipment can be swapped between your Deck and Loadout through the Reconfigure action.
+
+EQUIPMENT COOLDOWN:
+	Like most Ability cards, some Equipment cards require Cooldown after they are activated.
+	When used, place the Equipment card into Cooldown Slot 1. The card moves through the Cooldown Queue normally.
+	Equipment that does not say it requires Cooldown simply remains in the Loadout after use.
+
+COMBO EQUIPMENT:
+	Some Equipment cards have the Combo trait. A Combo Equipment card may enter Cooldown Slot 1 in addition to one other card used during the same turn.
+	The Combo card may be placed above or below the other card, depending on which card was used first.
+	A Combo card still requires a Use Equipment Action unless stated otherwise.
+	For more rules on the Combo trait and the Cooldown Queue, see Chapter XX.
+
+EQUIPMENT THAT MODIFIES ABILITIES:
+	Equipment may modify compatible Ability cards while it remains in your Loadout.
+	However, Equipment whose primary purpose is modifying Abilities should generally also have its own independent Ability-like effect as well. 
+	This prevents the Equipment from becoming useless while its compatible Abilities are unavailable in the Cooldown Queue.
+	For example, a magical fire sword might add fire damage to melee-based Abilities, while also providing its own attack when activated with the Use Equipment Action.
+	These Ability-like effects may justify a Cooldown themselves, but that should NOT prevent the Equipment's passive effects from working as normal.
+	Many types of Equipment (such as armor, tools, and other primarily passive items) may reasonably have no Ability-like use.
+
+PASSIVE EQUIPMENT:
+	Passive Equipment provides a continuous benefit while it remains in your Loadout. It does not require an Action to activate.
+	Its benefit ends immediately if the card leaves your Loadout.
+	Passive Equipment should clearly state what benefit it provides.
+
+WEAPONS, ARMOR AND SHIELDS:
+	Ordinary weapons do not have universal damage dice. The damage and effects of an attack are determined primarily by the Ability being used.
+	A weapon may be part of an Ability's description without requiring its own Equipment card.
+	Unusual, magical, advanced, or especially powerful weapons may have Equipment cards.
+	Ordinary armor and shields are already represented by the team's shared Armor Class. They do not require separate Equipment cards.
+	Special armor and shields generally do require Equipment cards. They may provide passive benefits or activated effects.
+	Special armor and shields SHOULD NOT modify the team's Armor Class. Instead, they should provide a boost to the character's Hit Points. 
+	Shields can also be used as part of a Wildcard action, such as bashing an enemy in the face, or sledding down stairs while shooting orcs with a bow.
+
+PACKS AND KITS:
+	A Pack or Kit represents a collection of related mundane gear. Packs and Kits can be represented by a single Equipment card.
+	Examples include an adventuring pack, healer's kit, climbing kit, disguise kit, or artisan's tools.
+	The player and Game Master should use common sense when deciding whether a reasonable item is included.
+	Rare, expensive, magical, or unusually powerful items should be tracked separately.
+
+FOUND EQUIPMENT:
+	Characters may find or acquire Equipment during play.
+	Unless the Equipment is mundane or inconsequential enough to be un-carded, a newly acquired item is added to the character's Deck.
+	During combat, a character can place a newly-acquired item directly into their Loadout. (If it causes the player's Loadout to go beyond 10, the player must move one card into their Deck.)
+	An unfamiliar item may require a familiarization, analysis, activation, or special instruction before it can be used effectively.
+
+UN-CARDED EQUIPMENT:
+	Trivial, mundane, or inconsequential minor items may not require a full Equipment card. The player can simply make a note that they've acquired the item.
+	Examples include small trinkets, low-value gems, everyday utensils, edible fruits, etc.
+
+EQUIPMENT LIMITATIONS:
+	OSK generally avoids tracking mundane ammunition, such as arrows.
+	However, certain kinds of special Equipment may require ammunition, fuel, charges, two hands, a free hand, a specific environment, or something else in order to be usable.
+	Any important limitation should be written on the Equipment card.
+	Certain limitations, such as special ammunition, may be represented by Consumable cards in addition to the corresponding Equipment card.
+
+DESIGNING EQUIPMENT CARDS:
+	Like Ability cards, Equipment cards should be concise and fit on a 3x5 card.
+	The card should state whether it is Activated, Passive, Combo, Consumable, or Requires Cooldown. The card should also define any compatible Abilities, range, targets, rolls, effects, and limitations.
+	Equipment should be balanced using principles similar to Ability design (see Chapter XX). In other words, equipment that grants a broad or permanent benefit should generally be weaker than a comparable activated effect.
+	The GM may revise Equipment that proves unclear, disruptive, or unbalanced.
+
+CONSUMABLES:
+	Consumables are one-time-use items, represented by Consumable cards.
+	Examples include potions, scrolls, special ammunition, alchemical mixtures, poisons, and enchanted food.
+	After a Consumable is used, remove its card from the character's Deck.
+
+USING CONSUMABLES:
+	Activating a Consumable normally requires a Use Consumable action. Consumables usually do not enter the Cooldown Queue.
+	Unless the card states otherwise, a consumable must be in your Loadout in order to use it. After you've used it, you can immediately swap a new card from your Deck into your Loadout.
+	A Consumable may be used on yourself, an adjacent creature, or another valid target described by the card.
+	Throwable, offensive Consumables may require an Attack Roll, Check, or defined area of effect.
+
+CONSUMABLE EFFECTS:
+	Consumables may restore HP, grant Temporary HP, remove Conditions, modify Abilities, create environmental effects, or produce other benefits.
+	A Consumable should state any relevant secondary information, such as range, target, duration, required rolls, etc.
+	Healing Consumables still require the target to spend a Recovery Point, unless the card specifically says otherwise.
+	Exceptionally powerful Consumables (such as ones that restore Recovery Points or resurrect dead allies) should generally be extraordinarily rare.
+
+
+
+
+
